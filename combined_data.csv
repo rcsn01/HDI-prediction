@@ -1,0 +1,1793 @@
+countries,commodity_name,currency_name,mp_price,population,year,hdi
+Afghanistan,Bread - Retail,AFN,17.21375,19542982.0,2000,0.335
+Afghanistan,Bread - Retail,AFN,16.522666666666666,19688632.0,2001,0.337
+Afghanistan,Bread - Retail,AFN,11.587872340425532,21000256.0,2002,0.362
+Afghanistan,Bread - Retail,AFN,13.016666666666666,22645130.0,2003,0.376
+Afghanistan,Bread - Retail,AFN,15.622916666666667,23553551.0,2004,0.392
+Afghanistan,Bread - Retail,AFN,18.770833333333332,24411191.0,2005,0.4
+Afghanistan,Bread - Retail,AFN,20.022916666666667,25442944.0,2006,0.409
+Afghanistan,Bread - Retail,AFN,23.931250000000002,25903301.0,2007,0.424
+Afghanistan,Bread - Retail,AFN,46.17729166666667,26427199.0,2008,0.43
+Afghanistan,Bread - Retail,AFN,40.397708333333334,27385307.0,2009,0.44
+Afghanistan,Bread - Retail,AFN,32.23854166666667,28189672.0,2010,0.448
+Afghanistan,Bread - Retail,AFN,35.01,29249157.0,2011,0.456
+Afghanistan,Bread - Retail,AFN,35.51541666666667,30466479.0,2012,0.466
+Afghanistan,Bread - Retail,AFN,35.469375,31541209.0,2013,0.474
+Afghanistan,Bread - Retail,AFN,42.840260416666666,32716210.0,2014,0.479
+Afghanistan,Bread - Retail,AFN,44.385625,33753499.0,2015,0.478
+Afghanistan,Bread - Retail,AFN,44.7025,34636207.0,2016,0.481
+Afghanistan,Bread - Retail,AFN,44.453541666666666,35643418.0,2017,0.482
+Afghanistan,Bread - Retail,AFN,44.288645833333334,36686784.0,2018,0.483
+Afghanistan,Bread - Retail,AFN,44.50692708333333,37769499.0,2019,0.488
+Afghanistan,Bread - Retail,AFN,50.88217401315789,38972230.0,2020,0.483
+Afghanistan,Oil (cooking) - Retail,AFN,102.24613823529411,38972230.0,2020,0.483
+Afghanistan,Pulses - Retail,AFN,92.84295330882352,38972230.0,2020,0.483
+Afghanistan,Rice (high quality) - Retail,AFN,87.35355404411766,38972230.0,2020,0.483
+Afghanistan,Rice (low quality) - Retail,AFN,27.249532710280373,25903301.0,2007,0.424
+Afghanistan,Rice (low quality) - Retail,AFN,40.33639423076923,26427199.0,2008,0.43
+Afghanistan,Rice (low quality) - Retail,AFN,34.72033148148148,27385307.0,2009,0.44
+Afghanistan,Rice (low quality) - Retail,AFN,31.72601308411215,28189672.0,2010,0.448
+Afghanistan,Rice (low quality) - Retail,AFN,32.85533707865169,29249157.0,2011,0.456
+Afghanistan,Rice (low quality) - Retail,AFN,38.04635416666667,30466479.0,2012,0.466
+Afghanistan,Rice (low quality) - Retail,AFN,46.96,31541209.0,2013,0.474
+Afghanistan,Rice (low quality) - Retail,AFN,43.06666666666666,32716210.0,2014,0.479
+Afghanistan,Rice (low quality) - Retail,AFN,39.621874999999996,33753499.0,2015,0.478
+Afghanistan,Rice (low quality) - Retail,AFN,41.435227272727275,34636207.0,2016,0.481
+Afghanistan,Rice (low quality) - Retail,AFN,44.235677083333336,35643418.0,2017,0.482
+Afghanistan,Rice (low quality) - Retail,AFN,46.09270833333333,36686784.0,2018,0.483
+Afghanistan,Rice (low quality) - Retail,AFN,45.873697916666664,37769499.0,2019,0.488
+Afghanistan,Rice (low quality) - Retail,AFN,48.948244407894734,38972230.0,2020,0.483
+Afghanistan,Salt - Retail,AFN,12.45526911764706,38972230.0,2020,0.483
+Afghanistan,Sugar - Retail,AFN,49.90723125,38972230.0,2020,0.483
+Afghanistan,Wheat - Retail,AFN,12.116458333333334,19542982.0,2000,0.335
+Afghanistan,Wheat - Retail,AFN,10.286,19688632.0,2001,0.337
+Afghanistan,Wheat - Retail,AFN,5.923125,21000256.0,2002,0.362
+Afghanistan,Wheat - Retail,AFN,7.089340277777778,22645130.0,2003,0.376
+Afghanistan,Wheat - Retail,AFN,9.06158021978022,23553551.0,2004,0.392
+Afghanistan,Wheat - Retail,AFN,11.0809375,24411191.0,2005,0.4
+Afghanistan,Wheat - Retail,AFN,11.978384375,25442944.0,2006,0.409
+Afghanistan,Wheat - Retail,AFN,14.163317757009345,25903301.0,2007,0.424
+Afghanistan,Wheat - Retail,AFN,28.158587962962965,26427199.0,2008,0.43
+Afghanistan,Wheat - Retail,AFN,18.749808333333334,27385307.0,2009,0.44
+Afghanistan,Wheat - Retail,AFN,14.791939252336448,28189672.0,2010,0.448
+Afghanistan,Wheat - Retail,AFN,19.572837078651688,29249157.0,2011,0.456
+Afghanistan,Wheat - Retail,AFN,19.562620833333334,30466479.0,2012,0.466
+Afghanistan,Wheat - Retail,AFN,21.76633152173913,31541209.0,2013,0.474
+Afghanistan,Wheat - Retail,AFN,24.2775,32716210.0,2014,0.479
+Afghanistan,Wheat - Retail,AFN,23.417708333333334,33753499.0,2015,0.478
+Afghanistan,Wheat - Retail,AFN,23.992414772727273,34636207.0,2016,0.481
+Afghanistan,Wheat - Retail,AFN,23.530989583333334,35643418.0,2017,0.482
+Afghanistan,Wheat - Retail,AFN,23.26609375,36686784.0,2018,0.483
+Afghanistan,Wheat - Retail,AFN,24.554427083333334,37769499.0,2019,0.488
+Afghanistan,Wheat - Retail,AFN,29.133744407894735,38972230.0,2020,0.483
+Afghanistan,Wheat flour (high quality) - Retail,AFN,35.59056507352941,38972230.0,2020,0.483
+Afghanistan,Wheat flour (low quality) - Retail,AFN,32.17873786764706,38972230.0,2020,0.483
+Afghanistan,Wheat flour - Retail,AFN,14.202916666666667,19542982.0,2000,0.335
+Afghanistan,Wheat flour - Retail,AFN,11.76088888888889,19688632.0,2001,0.337
+Afghanistan,Wheat flour - Retail,AFN,7.380624999999999,21000256.0,2002,0.362
+Afghanistan,Wheat flour - Retail,AFN,9.660416666666666,22645130.0,2003,0.376
+Afghanistan,Wheat flour - Retail,AFN,11.891666666666666,23553551.0,2004,0.392
+Afghanistan,Wheat flour - Retail,AFN,13.647916666666667,24411191.0,2005,0.4
+Afghanistan,Wheat flour - Retail,AFN,13.4,25442944.0,2006,0.409
+Afghanistan,Wheat flour - Retail,AFN,15.254166666666668,25903301.0,2007,0.424
+Afghanistan,Wheat flour - Retail,AFN,33.29770833333333,26427199.0,2008,0.43
+Afghanistan,Wheat flour - Retail,AFN,22.444166666666664,27385307.0,2009,0.44
+Afghanistan,Wheat flour - Retail,AFN,19.806250000000002,28189672.0,2010,0.448
+Afghanistan,Wheat flour - Retail,AFN,23.70958333333333,29249157.0,2011,0.456
+Afghanistan,Wheat flour - Retail,AFN,23.757916666666663,30466479.0,2012,0.466
+Afghanistan,Wheat flour - Retail,AFN,27.380625,31541209.0,2013,0.474
+Afghanistan,Wheat flour - Retail,AFN,28.276666666666667,32716210.0,2014,0.479
+Afghanistan,Wheat flour - Retail,AFN,27.23875,33753499.0,2015,0.478
+Afghanistan,Wheat flour - Retail,AFN,27.249583333333334,34636207.0,2016,0.481
+Afghanistan,Wheat flour - Retail,AFN,26.612083333333334,35643418.0,2017,0.482
+Afghanistan,Wheat flour - Retail,AFN,26.022499999999997,36686784.0,2018,0.483
+Afghanistan,Wheat flour - Retail,AFN,28.725416666666664,37769499.0,2019,0.488
+Algeria,Apples - Retail,DZD,254.08333333333334,39543154.0,2015,0.74
+Algeria,Apples - Retail,DZD,371.02272727272725,40339329.0,2016,0.743
+Algeria,Bananas - Retail,DZD,225.61111111111111,39543154.0,2015,0.74
+Algeria,Bananas - Retail,DZD,290.0,40339329.0,2016,0.743
+Algeria,Beans (white) - Retail,DZD,207.38888888888889,39543154.0,2015,0.74
+Algeria,Beans (white) - Retail,DZD,208.29545454545453,40339329.0,2016,0.743
+Algeria,Carrots - Retail,DZD,98.05555555555556,39543154.0,2015,0.74
+Algeria,Carrots - Retail,DZD,95.36363636363636,40339329.0,2016,0.743
+Algeria,Lentils - Retail,DZD,191.40277777777777,39543154.0,2015,0.74
+Algeria,Lentils - Retail,DZD,215.0,40339329.0,2016,0.743
+Algeria,Meat (beef) - Retail,DZD,1200.0,39543154.0,2015,0.74
+Algeria,Meat (camel) - Retail,DZD,614.8148148148148,39543154.0,2015,0.74
+Algeria,Meat (camel) - Retail,DZD,669.4594594594595,40339329.0,2016,0.743
+Algeria,Meat (chicken) - Retail,DZD,348.1666666666667,39543154.0,2015,0.74
+Algeria,Meat (chicken) - Retail,DZD,338.95454545454544,40339329.0,2016,0.743
+Algeria,Onions - Retail,DZD,89.69444444444444,39543154.0,2015,0.74
+Algeria,Onions - Retail,DZD,81.9090909090909,40339329.0,2016,0.743
+Algeria,Oranges - Retail,DZD,220.875,39543154.0,2015,0.74
+Algeria,Potatoes - Retail,DZD,78.5,39543154.0,2015,0.74
+Algeria,Potatoes - Retail,DZD,68.63636363636364,40339329.0,2016,0.743
+Algeria,Rice - Retail,DZD,90.69444444444444,39543154.0,2015,0.74
+Algeria,Rice - Retail,DZD,106.25,40339329.0,2016,0.743
+Algeria,Sugar - Retail,DZD,95.05555555555556,39543154.0,2015,0.74
+Algeria,Sugar - Retail,DZD,97.4090909090909,40339329.0,2016,0.743
+Algeria,Tea - Retail,DZD,552.3333333333334,39543154.0,2015,0.74
+Algeria,Tea - Retail,DZD,418.57142857142856,40339329.0,2016,0.743
+Algeria,Tomatoes - Retail,DZD,97.84722222222223,39543154.0,2015,0.74
+Algeria,Tomatoes - Retail,DZD,84.18181818181819,40339329.0,2016,0.743
+Cambodia,"Beans (yardlong, green) - Retail",KHR,4072.323529411765,16207746.0,2019,0.598
+Cambodia,"Beans (yardlong, green) - Retail",KHR,4285.6918863492065,16396860.0,2020,0.596
+Cambodia,"Beans (yardlong, green) - Wholesale",KHR,3516.6323529411766,16207746.0,2019,0.598
+Cambodia,"Beans (yardlong, green) - Wholesale",KHR,3633.548006666667,16396860.0,2020,0.596
+Cambodia,"Cabbage (chinese, flowering) - Retail",KHR,3254.9666666666667,16207746.0,2019,0.598
+Cambodia,"Cabbage (chinese, flowering) - Retail",KHR,3410.0554825242716,16396860.0,2020,0.596
+Cambodia,"Cabbage (chinese, flowering) - Wholesale",KHR,2639.4666666666667,16207746.0,2019,0.598
+Cambodia,"Cabbage (chinese, flowering) - Wholesale",KHR,2833.8203165048544,16396860.0,2020,0.596
+Cambodia,Eggplants - Retail,KHR,2951.8571428571427,16207746.0,2019,0.598
+Cambodia,Eggplants - Retail,KHR,2815.6932183946487,16396860.0,2020,0.596
+Cambodia,Eggplants - Wholesale,KHR,2443.557142857143,16207746.0,2019,0.598
+Cambodia,Eggplants - Wholesale,KHR,2328.2478451505017,16396860.0,2020,0.596
+Cambodia,Fish (catfish) - Retail,KHR,8840.763888888889,16207746.0,2019,0.598
+Cambodia,Fish (catfish) - Retail,KHR,7937.64021078067,16396860.0,2020,0.596
+Cambodia,Fish (catfish) - Wholesale,KHR,8272.694444444445,16207746.0,2019,0.598
+Cambodia,Fish (catfish) - Wholesale,KHR,7167.0837669144985,16396860.0,2020,0.596
+Cambodia,Fish (snake head) - Retail,KHR,10749.144736842105,16207746.0,2019,0.598
+Cambodia,Fish (snake head) - Retail,KHR,9660.068272093024,16396860.0,2020,0.596
+Cambodia,Fish (snake head) - Wholesale,KHR,10287.763157894737,16207746.0,2019,0.598
+Cambodia,Fish (snake head) - Wholesale,KHR,8714.13252026578,16396860.0,2020,0.596
+Cambodia,"Fish (snake head, dry) - Retail",KHR,26264.24521695652,16396860.0,2020,0.596
+Cambodia,"Fish (snake head, dry) - Wholesale",KHR,24604.28587,16396860.0,2020,0.596
+Cambodia,Fish (striped catfish) - Retail,KHR,7263.451612903225,16207746.0,2019,0.598
+Cambodia,Fish (striped catfish) - Retail,KHR,7206.033270300752,16396860.0,2020,0.596
+Cambodia,Fish (striped catfish) - Wholesale,KHR,6871.5161290322585,16207746.0,2019,0.598
+Cambodia,Fish (striped catfish) - Wholesale,KHR,6425.00482481203,16396860.0,2020,0.596
+Cambodia,"Meat (pork, with fat) - Retail",KHR,15133.33333,15210817.0,2014,0.569
+Cambodia,"Meat (pork, with fat) - Retail",KHR,14264.529913247863,15417523.0,2015,0.574
+Cambodia,"Meat (pork, with fat) - Retail",KHR,13761.65803316062,15624584.0,2016,0.581
+Cambodia,"Meat (pork, with fat) - Retail",KHR,11879.464283928572,15830689.0,2017,0.586
+Cambodia,"Meat (pork, with fat) - Retail",KHR,13394.42701986755,16025238.0,2018,0.591
+Cambodia,"Meat (pork, with fat) - Retail",KHR,15132.156919191919,16207746.0,2019,0.598
+Cambodia,"Meat (pork, with fat) - Retail",KHR,20072.3984945679,16396860.0,2020,0.596
+Cambodia,"Meat (pork, with fat) - Wholesale",KHR,14101.142857142857,16207746.0,2019,0.598
+Cambodia,"Meat (pork, with fat) - Wholesale",KHR,18831.212629490616,16396860.0,2020,0.596
+Cambodia,Oil (vegetable) - Retail,KHR,4917.73333,15210817.0,2014,0.569
+Cambodia,Oil (vegetable) - Retail,KHR,4660.474363247863,15417523.0,2015,0.574
+Cambodia,Oil (vegetable) - Retail,KHR,4528.058584536083,15624584.0,2016,0.581
+Cambodia,Oil (vegetable) - Retail,KHR,4556.125753097345,15830689.0,2017,0.586
+Cambodia,Oil (vegetable) - Retail,KHR,5949.088117647058,16025238.0,2018,0.591
+Cambodia,Prawn - Wholesale,KHR,40288.194658333334,13477779.0,2006,0.51
+Cambodia,Prawn - Wholesale,KHR,42554.385733333336,13714791.0,2007,0.521
+Cambodia,Prawn - Wholesale,KHR,31424.900075,13943888.0,2008,0.528
+Cambodia,Prawn - Wholesale,KHR,30370.291666666668,14155740.0,2009,0.534
+Cambodia,Prawn - Wholesale,KHR,24783.332358333337,14363532.0,2010,0.54
+Cambodia,Prawn - Wholesale,KHR,25438.041824999997,14573885.0,2011,0.548
+Cambodia,Prawn - Wholesale,KHR,33898.542,14786640.0,2012,0.555
+Cambodia,Prawn - Wholesale,KHR,40367.22249166667,14999683.0,2013,0.562
+Cambodia,Prawn - Wholesale,KHR,56650.0,15210817.0,2014,0.569
+Cambodia,Prawn - Wholesale,KHR,53480.5,15417523.0,2015,0.574
+Cambodia,Prawn - Wholesale,KHR,51102.666666666664,15624584.0,2016,0.581
+Cambodia,Prawn - Wholesale,KHR,67430.5,15830689.0,2017,0.586
+Cambodia,Prawn - Wholesale,KHR,70095.33333333333,16025238.0,2018,0.591
+Cambodia,Prawn - Wholesale,KHR,66899.25,16207746.0,2019,0.598
+Cambodia,Prawn - Wholesale,KHR,68881.91666666667,16396860.0,2020,0.596
+Cambodia,"Rice (mixed, low quality) - Retail",KHR,1778.8854779141102,14999683.0,2013,0.562
+Cambodia,"Rice (mixed, low quality) - Retail",KHR,1731.2499987068966,15210817.0,2014,0.569
+Cambodia,"Rice (mixed, low quality) - Retail",KHR,1725.4976958525347,15417523.0,2015,0.574
+Cambodia,"Rice (mixed, low quality) - Retail",KHR,1758.7947282485877,15624584.0,2016,0.581
+Cambodia,"Rice (mixed, low quality) - Retail",KHR,1721.0606063636365,15830689.0,2017,0.586
+Cambodia,"Rice (mixed, low quality) - Retail",KHR,2016.860465116279,16207746.0,2019,0.598
+Cambodia,"Rice (mixed, low quality) - Retail",KHR,2059.5221772357722,16396860.0,2020,0.596
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,679.8611111111111,12787710.0,2003,0.475
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,837.3845192307692,13016371.0,2004,0.488
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,980.4425,13246583.0,2005,0.499
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,887.8931709302325,13477779.0,2006,0.51
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1156.2940225490197,13714791.0,2007,0.521
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1824.209238095238,13943888.0,2008,0.528
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1472.143199074074,14155740.0,2009,0.534
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1684.7870093457943,14363532.0,2010,0.54
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1822.487086407767,14573885.0,2011,0.548
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1792.810202020202,14786640.0,2012,0.555
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1714.2182474226806,14999683.0,2013,0.562
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1641.7324137931034,15210817.0,2014,0.569
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1563.0865289256199,15417523.0,2015,0.574
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1604.9103007518797,15624584.0,2016,0.581
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1657.4886363636363,15830689.0,2017,0.586
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1788.0157205240173,16025238.0,2018,0.591
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1852.0793089430895,16207746.0,2019,0.598
+Cambodia,"Rice (mixed, low quality) - Wholesale",KHR,1898.1165782997762,16396860.0,2020,0.596
+Cambodia,Salt (iodised) - Retail,KHR,1139.4761904761904,16207746.0,2019,0.598
+Cambodia,Salt (iodised) - Retail,KHR,1196.6060606060605,16396860.0,2020,0.596
+Cambodia,Salt (iodised) - Wholesale,KHR,963.4880952380952,16207746.0,2019,0.598
+Cambodia,Salt (iodised) - Wholesale,KHR,1009.9094653198653,16396860.0,2020,0.596
+Cambodia,Snake gourd - Retail,KHR,3124.4666666666667,16207746.0,2019,0.598
+Cambodia,Snake gourd - Retail,KHR,2699.4654541818186,16396860.0,2020,0.596
+Cambodia,Snake gourd - Wholesale,KHR,2530.0333333333333,16207746.0,2019,0.598
+Cambodia,Snake gourd - Wholesale,KHR,2221.130101090909,16396860.0,2020,0.596
+Cambodia,Soybeans - Wholesale,KHR,1345.2083333333333,13477779.0,2006,0.51
+Cambodia,Soybeans - Wholesale,KHR,1992.703877777778,13714791.0,2007,0.521
+Cambodia,Soybeans - Wholesale,KHR,2860.5208444444447,13943888.0,2008,0.528
+Cambodia,Soybeans - Wholesale,KHR,2388.7435944444446,14155740.0,2009,0.534
+Cambodia,Soybeans - Wholesale,KHR,2517.0380611111113,14363532.0,2010,0.54
+Cambodia,Soybeans - Wholesale,KHR,2975.545002777778,14573885.0,2011,0.548
+Cambodia,Soybeans - Wholesale,KHR,2941.339425714286,14786640.0,2012,0.555
+Cambodia,Soybeans - Wholesale,KHR,3660.203883333333,14999683.0,2013,0.562
+Cambodia,Soybeans - Wholesale,KHR,3210.3333333333335,15210817.0,2014,0.569
+Cambodia,Soybeans - Wholesale,KHR,2849.222222222222,15417523.0,2015,0.574
+Cambodia,Soybeans - Wholesale,KHR,3021.3333333333335,15624584.0,2016,0.581
+Cambodia,Soybeans - Wholesale,KHR,3237.5,15830689.0,2017,0.586
+Cambodia,Soybeans - Wholesale,KHR,3194.8888888888887,16025238.0,2018,0.591
+Cambodia,Soybeans - Wholesale,KHR,3096.25,16207746.0,2019,0.598
+Cambodia,Soybeans - Wholesale,KHR,3106.3888888888887,16396860.0,2020,0.596
+Cambodia,Water spinach - Retail,KHR,2578.818181818182,16207746.0,2019,0.598
+Cambodia,Water spinach - Retail,KHR,2774.654188643533,16396860.0,2020,0.596
+Cambodia,Water spinach - Wholesale,KHR,2218.939393939394,16207746.0,2019,0.598
+Cambodia,Water spinach - Wholesale,KHR,2310.6543993690852,16396860.0,2020,0.596
+Cambodia,Wax gourd - Retail,KHR,2243.7297297297296,16207746.0,2019,0.598
+Cambodia,Wax gourd - Retail,KHR,2422.070061111111,16396860.0,2020,0.596
+Cambodia,Wax gourd - Wholesale,KHR,1863.054054054054,16207746.0,2019,0.598
+Cambodia,Wax gourd - Wholesale,KHR,1997.3730101851854,16396860.0,2020,0.596
+Central African Republic,"Beans (green, fresh) - Retail",XAF,1191.7558416666668,4467233.0,2008,0.358
+Central African Republic,"Beans (green, fresh) - Retail",XAF,1452.0983333333334,4564540.0,2009,0.364
+Central African Republic,"Beans (green, fresh) - Retail",XAF,2126.5450333333333,4660067.0,2010,0.372
+Central African Republic,"Beans (green, fresh) - Retail",XAF,1894.5325,4732022.0,2011,0.381
+Central African Republic,"Beans (green, fresh) - Retail",XAF,1848.2408166666667,4773306.0,2012,0.388
+Central African Republic,"Beans (green, fresh) - Retail",XAF,1798.925,4802428.0,2013,0.368
+Central African Republic,"Beans (green, fresh) - Retail",XAF,1756.9066583333333,4798734.0,2014,0.37
+Central African Republic,"Beans (green, fresh) - Retail",XAF,2326.80585,4819333.0,2015,0.384
+Central African Republic,"Beans (green, fresh) - Retail",XAF,2287.5400083333334,4904177.0,2016,0.391
+Central African Republic,"Beans (green, fresh) - Retail",XAF,2730.8458083333335,4996741.0,2017,0.398
+Central African Republic,"Beans (green, fresh) - Retail",XAF,2798.53199,5094780.0,2018,0.405
+Central African Republic,Beans (niebe) - Retail,XAF,238.75,4798734.0,2014,0.37
+Central African Republic,Beans (niebe) - Retail,XAF,263.3333333333333,4819333.0,2015,0.384
+Central African Republic,Beans (niebe) - Retail,XAF,399.5604888888889,4996741.0,2017,0.398
+Central African Republic,Beans (niebe) - Retail,XAF,410.6287465240641,5094780.0,2018,0.405
+Central African Republic,Beans (niebe) - Retail,XAF,406.91885056179774,5209324.0,2019,0.411
+Central African Republic,Beans (niebe) - Retail,XAF,346.6831231578947,5343020.0,2020,0.407
+Central African Republic,Beans (white) - Retail,XAF,421.28119108280254,5343020.0,2020,0.407
+Central African Republic,Cassava (cossette) - Retail,XAF,251.422775,4115138.0,2004,0.337
+Central African Republic,Cassava (cossette) - Retail,XAF,309.89508333333333,4208834.0,2005,0.342
+Central African Republic,Cassava (cossette) - Retail,XAF,282.6995083333333,4294352.0,2006,0.345
+Central African Republic,Cassava (cossette) - Retail,XAF,269.1555,4375569.0,2007,0.351
+Central African Republic,Cassava (cossette) - Retail,XAF,283.03904374999996,4467233.0,2008,0.358
+Central African Republic,Cassava (cossette) - Retail,XAF,272.3187208333333,4564540.0,2009,0.364
+Central African Republic,Cassava (cossette) - Retail,XAF,209.9152393939394,4660067.0,2010,0.372
+Central African Republic,Cassava (cossette) - Retail,XAF,258.9388833333333,4732022.0,2011,0.381
+Central African Republic,Cassava (cossette) - Retail,XAF,256.5434916666666,4773306.0,2012,0.388
+Central African Republic,Cassava (cossette) - Retail,XAF,253.25,4802428.0,2013,0.368
+Central African Republic,Cassava (cossette) - Retail,XAF,88.0,4798734.0,2014,0.37
+Central African Republic,Cassava (cossette) - Retail,XAF,106.36666666666666,4819333.0,2015,0.384
+Central African Republic,Cassava (cossette) - Retail,XAF,133.27506363636365,4904177.0,2016,0.391
+Central African Republic,Cassava (cossette) - Retail,XAF,151.12199230769232,4996741.0,2017,0.398
+Central African Republic,Cassava (cossette) - Retail,XAF,153.2337666666667,5094780.0,2018,0.405
+Central African Republic,Cassava (cossette) - Retail,XAF,185.14180060240963,5209324.0,2019,0.411
+Central African Republic,Cassava (cossette) - Retail,XAF,218.5327972318339,5343020.0,2020,0.407
+Central African Republic,Cassava - Retail,XAF,251.0058333333333,4467233.0,2008,0.358
+Central African Republic,Cassava - Retail,XAF,217.26916666666668,4564540.0,2009,0.364
+Central African Republic,Cassava - Retail,XAF,217.52916666666667,4660067.0,2010,0.372
+Central African Republic,Cassava - Retail,XAF,260.15,4732022.0,2011,0.381
+Central African Republic,Cassava - Retail,XAF,256.77833333333336,4773306.0,2012,0.388
+Central African Republic,Cassava - Retail,XAF,283.75,4802428.0,2013,0.368
+Central African Republic,Cassava - Retail,XAF,242.40583333333333,4798734.0,2014,0.37
+Central African Republic,Cassava - Retail,XAF,202.87666666666667,4819333.0,2015,0.384
+Central African Republic,Cassava - Retail,XAF,226.035,4904177.0,2016,0.391
+Central African Republic,Cassava - Retail,XAF,282.81416666666667,4996741.0,2017,0.398
+Central African Republic,Cassava - Retail,XAF,239.202,5094780.0,2018,0.405
+Central African Republic,Cassava - Retail,XAF,279.163,5343020.0,2020,0.407
+Central African Republic,Chicken - Retail,XAF,2027.9767,4467233.0,2008,0.358
+Central African Republic,Chicken - Retail,XAF,2180.5874916666667,4564540.0,2009,0.364
+Central African Republic,Chicken - Retail,XAF,2205.5358499999998,4660067.0,2010,0.372
+Central African Republic,Chicken - Retail,XAF,2117.344183333333,4732022.0,2011,0.381
+Central African Republic,Chicken - Retail,XAF,2400.6883166666667,4773306.0,2012,0.388
+Central African Republic,Chicken - Retail,XAF,2050.66915,4802428.0,2013,0.368
+Central African Republic,Chicken - Retail,XAF,2343.998341666667,4798734.0,2014,0.37
+Central African Republic,Chicken - Retail,XAF,2431.7749916666667,4819333.0,2015,0.384
+Central African Republic,Chicken - Retail,XAF,2633.7642,4904177.0,2016,0.391
+Central African Republic,Chicken - Retail,XAF,2419.24665,4996741.0,2017,0.398
+Central African Republic,Chicken - Retail,XAF,2437.72898,5094780.0,2018,0.405
+Central African Republic,Fish (catfish) - Retail,XAF,1886.29,4467233.0,2008,0.358
+Central African Republic,Fish (catfish) - Retail,XAF,1913.0483333333332,4564540.0,2009,0.364
+Central African Republic,Fish (catfish) - Retail,XAF,2143.4649999999997,4660067.0,2010,0.372
+Central African Republic,Fish (catfish) - Retail,XAF,2462.1058166666667,4732022.0,2011,0.381
+Central African Republic,Fish (catfish) - Retail,XAF,3032.40085,4773306.0,2012,0.388
+Central African Republic,Fish (catfish) - Retail,XAF,3087.1933166666663,4802428.0,2013,0.368
+Central African Republic,Fish (catfish) - Retail,XAF,3864.84835,4798734.0,2014,0.37
+Central African Republic,Fish (catfish) - Retail,XAF,4266.360833333333,4819333.0,2015,0.384
+Central African Republic,Fish (catfish) - Retail,XAF,5857.349116666667,4904177.0,2016,0.391
+Central African Republic,Fish (catfish) - Retail,XAF,6453.394208333334,4996741.0,2017,0.398
+Central African Republic,Fish (catfish) - Retail,XAF,5963.186909999999,5094780.0,2018,0.405
+Central African Republic,Fish (frozen) - Retail,XAF,1643.6458333333333,5343020.0,2020,0.407
+Central African Republic,Fish (smoked) - Retail,XAF,4785.228358333333,4467233.0,2008,0.358
+Central African Republic,Fish (smoked) - Retail,XAF,4693.623333333334,4564540.0,2009,0.364
+Central African Republic,Fish (smoked) - Retail,XAF,4712.97,4660067.0,2010,0.372
+Central African Republic,Fish (smoked) - Retail,XAF,4972.074208333333,4732022.0,2011,0.381
+Central African Republic,Fish (smoked) - Retail,XAF,5924.469191666667,4773306.0,2012,0.388
+Central African Republic,Fish (smoked) - Retail,XAF,5690.519225,4802428.0,2013,0.368
+Central African Republic,Fish (smoked) - Retail,XAF,8355.549125,4798734.0,2014,0.37
+Central African Republic,Fish (smoked) - Retail,XAF,7887.255066666666,4819333.0,2015,0.384
+Central African Republic,Fish (smoked) - Retail,XAF,8214.036675000001,4904177.0,2016,0.391
+Central African Republic,Fish (smoked) - Retail,XAF,7858.109083333334,4996741.0,2017,0.398
+Central African Republic,Fish (smoked) - Retail,XAF,8447.511040000001,5094780.0,2018,0.405
+Central African Republic,Fish - Retail,XAF,2745.00415,4467233.0,2008,0.358
+Central African Republic,Fish - Retail,XAF,2852.683325,4564540.0,2009,0.364
+Central African Republic,Fish - Retail,XAF,3040.28585,4660067.0,2010,0.372
+Central African Republic,Fish - Retail,XAF,3035.969983333334,4732022.0,2011,0.381
+Central African Republic,Fish - Retail,XAF,3279.099941666667,4773306.0,2012,0.388
+Central African Republic,Fish - Retail,XAF,3876.9066166666667,4802428.0,2013,0.368
+Central African Republic,Fish - Retail,XAF,5052.8924916666665,4798734.0,2014,0.37
+Central African Republic,Fish - Retail,XAF,4806.11,4819333.0,2015,0.384
+Central African Republic,Fish - Retail,XAF,6307.849116666667,4904177.0,2016,0.391
+Central African Republic,Fish - Retail,XAF,6827.4092083333335,4996741.0,2017,0.398
+Central African Republic,Fish - Retail,XAF,7143.128119999999,5094780.0,2018,0.405
+Central African Republic,Fuel (gas) - Retail,XAF,1368.0,4798734.0,2014,0.37
+Central African Republic,Fuel (gas) - Retail,XAF,1434.0,4819333.0,2015,0.384
+Central African Republic,Groundnuts (shelled) - Retail,XAF,612.4545454545455,4802428.0,2013,0.368
+Central African Republic,Groundnuts (shelled) - Retail,XAF,339.0,4798734.0,2014,0.37
+Central African Republic,Groundnuts (shelled) - Retail,XAF,431.9130434782609,4819333.0,2015,0.384
+Central African Republic,Groundnuts (shelled) - Retail,XAF,601.7496145251397,5343020.0,2020,0.407
+Central African Republic,Groundnuts (unshelled) - Retail,XAF,511.5,4802428.0,2013,0.368
+Central African Republic,Groundnuts (unshelled) - Retail,XAF,535.25,4798734.0,2014,0.37
+Central African Republic,Groundnuts (unshelled) - Retail,XAF,663.6333333333333,4819333.0,2015,0.384
+Central African Republic,Groundnuts (unshelled) - Retail,XAF,450.78958450704226,4996741.0,2017,0.398
+Central African Republic,Groundnuts (unshelled) - Retail,XAF,538.9180237668161,5094780.0,2018,0.405
+Central African Republic,Groundnuts (unshelled) - Retail,XAF,571.1270834375,5209324.0,2019,0.411
+Central African Republic,Groundnuts (unshelled) - Retail,XAF,548.1935716981133,5343020.0,2020,0.407
+Central African Republic,Groundnuts - Retail,XAF,570.8941666666666,4467233.0,2008,0.358
+Central African Republic,Groundnuts - Retail,XAF,733.8725,4564540.0,2009,0.364
+Central African Republic,Groundnuts - Retail,XAF,790.1308333333333,4660067.0,2010,0.372
+Central African Republic,Groundnuts - Retail,XAF,708.7824999999999,4732022.0,2011,0.381
+Central African Republic,Groundnuts - Retail,XAF,611.5383333333333,4773306.0,2012,0.388
+Central African Republic,Groundnuts - Retail,XAF,641.3508333333333,4802428.0,2013,0.368
+Central African Republic,Groundnuts - Retail,XAF,752.7283333333334,4798734.0,2014,0.37
+Central African Republic,Groundnuts - Retail,XAF,1022.4108249999999,4819333.0,2015,0.384
+Central African Republic,Groundnuts - Retail,XAF,906.6375083333332,4904177.0,2016,0.391
+Central African Republic,Groundnuts - Retail,XAF,915.73,4996741.0,2017,0.398
+Central African Republic,Groundnuts - Retail,XAF,895.925,5094780.0,2018,0.405
+Central African Republic,Maize - Retail,XAF,344.1148083333333,4115138.0,2004,0.337
+Central African Republic,Maize - Retail,XAF,414.27011666666664,4208834.0,2005,0.342
+Central African Republic,Maize - Retail,XAF,240.82569166666667,4294352.0,2006,0.345
+Central African Republic,Maize - Retail,XAF,149.96935,4375569.0,2007,0.351
+Central African Republic,Maize - Retail,XAF,234.04806666666664,4467233.0,2008,0.358
+Central African Republic,Maize - Retail,XAF,220.32911458333334,4564540.0,2009,0.364
+Central African Republic,Maize - Retail,XAF,225.14414242424243,4660067.0,2010,0.372
+Central African Republic,Maize - Retail,XAF,231.58964166666667,4732022.0,2011,0.381
+Central African Republic,Maize - Retail,XAF,272.724425,4773306.0,2012,0.388
+Central African Republic,Maize - Retail,XAF,228.41666666666666,4802428.0,2013,0.368
+Central African Republic,Maize - Retail,XAF,259.625625,4798734.0,2014,0.37
+Central African Republic,Maize - Retail,XAF,164.6858536585366,4819333.0,2015,0.384
+Central African Republic,Maize - Retail,XAF,221.74616176470587,4904177.0,2016,0.391
+Central African Republic,Maize - Retail,XAF,205.93325303030304,4996741.0,2017,0.398
+Central African Republic,Maize - Retail,XAF,188.08594811320754,5094780.0,2018,0.405
+Central African Republic,Maize - Retail,XAF,222.66644773519164,5209324.0,2019,0.411
+Central African Republic,Maize - Retail,XAF,185.83258864468863,5343020.0,2020,0.407
+Central African Republic,"Meat (antelope, smoked) - Retail",XAF,2527.6825083333333,4467233.0,2008,0.358
+Central African Republic,"Meat (antelope, smoked) - Retail",XAF,2665.1433666666667,4564540.0,2009,0.364
+Central African Republic,"Meat (antelope, smoked) - Retail",XAF,2589.6966583333333,4660067.0,2010,0.372
+Central African Republic,"Meat (antelope, smoked) - Retail",XAF,2671.89665,4732022.0,2011,0.381
+Central African Republic,"Meat (antelope, smoked) - Retail",XAF,2834.9666666666667,4773306.0,2012,0.388
+Central African Republic,"Meat (antelope, smoked) - Retail",XAF,3448.8441583333333,4802428.0,2013,0.368
+Central African Republic,"Meat (antelope, smoked) - Retail",XAF,5248.904941666667,4798734.0,2014,0.37
+Central African Republic,"Meat (antelope, smoked) - Retail",XAF,5104.064208333333,4819333.0,2015,0.384
+Central African Republic,"Meat (antelope, smoked) - Retail",XAF,5140.822499999999,4904177.0,2016,0.391
+Central African Republic,"Meat (antelope, smoked) - Retail",XAF,5878.91255,4996741.0,2017,0.398
+Central African Republic,"Meat (antelope, smoked) - Retail",XAF,6161.82094,5094780.0,2018,0.405
+Central African Republic,Meat (beef) - Retail,XAF,1750.7824833333334,4467233.0,2008,0.358
+Central African Republic,Meat (beef) - Retail,XAF,1920.5666583333332,4564540.0,2009,0.364
+Central African Republic,Meat (beef) - Retail,XAF,2051.9250166666666,4660067.0,2010,0.372
+Central African Republic,Meat (beef) - Retail,XAF,1894.0008333333335,4732022.0,2011,0.381
+Central African Republic,Meat (beef) - Retail,XAF,2222.8392,4773306.0,2012,0.388
+Central African Republic,Meat (beef) - Retail,XAF,2369.4999916666666,4802428.0,2013,0.368
+Central African Republic,Meat (beef) - Retail,XAF,3855.7666833333333,4798734.0,2014,0.37
+Central African Republic,Meat (beef) - Retail,XAF,3788.3333666666663,4819333.0,2015,0.384
+Central African Republic,Meat (beef) - Retail,XAF,2780.0223710526316,4904177.0,2016,0.391
+Central African Republic,Meat (beef) - Retail,XAF,2371.6666651612904,4996741.0,2017,0.398
+Central African Republic,Meat (beef) - Retail,XAF,2796.9967531818183,5094780.0,2018,0.405
+Central African Republic,Meat (beef) - Retail,XAF,2591.4156626506024,5209324.0,2019,0.411
+Central African Republic,Meat (beef) - Retail,XAF,2951.893357957958,5343020.0,2020,0.407
+Central African Republic,"Meat (chicken, frozen) - Retail",XAF,2434.0694458333332,5343020.0,2020,0.407
+Central African Republic,"Meat (gazelle, smoked) - Retail",XAF,2636.3908583333337,4467233.0,2008,0.358
+Central African Republic,"Meat (gazelle, smoked) - Retail",XAF,2866.8092083333336,4564540.0,2009,0.364
+Central African Republic,"Meat (gazelle, smoked) - Retail",XAF,3207.0199916666666,4660067.0,2010,0.372
+Central African Republic,"Meat (gazelle, smoked) - Retail",XAF,3145.5199666666667,4732022.0,2011,0.381
+Central African Republic,"Meat (gazelle, smoked) - Retail",XAF,3059.4649833333333,4773306.0,2012,0.388
+Central African Republic,"Meat (gazelle, smoked) - Retail",XAF,3562.017483333333,4802428.0,2013,0.368
+Central African Republic,"Meat (gazelle, smoked) - Retail",XAF,5199.905825,4798734.0,2014,0.37
+Central African Republic,"Meat (gazelle, smoked) - Retail",XAF,5401.310866666667,4819333.0,2015,0.384
+Central African Republic,"Meat (gazelle, smoked) - Retail",XAF,5810.058349999999,4904177.0,2016,0.391
+Central African Republic,"Meat (gazelle, smoked) - Retail",XAF,5131.403316666667,4996741.0,2017,0.398
+Central African Republic,"Meat (gazelle, smoked) - Retail",XAF,4962.84094,5094780.0,2018,0.405
+Central African Republic,Millet - Retail,XAF,401.4169083333333,4115138.0,2004,0.337
+Central African Republic,Millet - Retail,XAF,510.99329166666666,4208834.0,2005,0.342
+Central African Republic,Millet - Retail,XAF,461.14748333333335,4294352.0,2006,0.345
+Central African Republic,Millet - Retail,XAF,421.09049166666665,4375569.0,2007,0.351
+Central African Republic,Millet - Retail,XAF,413.953575,4467233.0,2008,0.358
+Central African Republic,Millet - Retail,XAF,439.35160833333333,4564540.0,2009,0.364
+Central African Republic,Millet - Retail,XAF,377.2660166666667,4660067.0,2010,0.372
+Central African Republic,Millet - Retail,XAF,361.82678333333337,4732022.0,2011,0.381
+Central African Republic,Millet - Retail,XAF,353.61555,4773306.0,2012,0.388
+Central African Republic,Millet - Retail,XAF,338.8833333333333,4802428.0,2013,0.368
+Central African Republic,Millet - Retail,XAF,370.41200000000003,4798734.0,2014,0.37
+Central African Republic,Millet - Retail,XAF,313.4575,4819333.0,2015,0.384
+Central African Republic,Millet - Retail,XAF,299.947947368421,4904177.0,2016,0.391
+Central African Republic,Millet - Retail,XAF,334.32047619047614,4996741.0,2017,0.398
+Central African Republic,Millet - Retail,XAF,497.878,5094780.0,2018,0.405
+Central African Republic,"Rice (broken, imported) - Retail",XAF,610.909725,5343020.0,2020,0.407
+Central African Republic,Rice - Retail,XAF,517.10415,4115138.0,2004,0.337
+Central African Republic,Rice - Retail,XAF,528.2634833333333,4208834.0,2005,0.342
+Central African Republic,Rice - Retail,XAF,568.9679500000001,4294352.0,2006,0.345
+Central African Republic,Rice - Retail,XAF,534.3605166666666,4375569.0,2007,0.351
+Central African Republic,Rice - Retail,XAF,417.58106875,4467233.0,2008,0.358
+Central African Republic,Rice - Retail,XAF,449.99681250000003,4564540.0,2009,0.364
+Central African Republic,Rice - Retail,XAF,496.0735939393939,4660067.0,2010,0.372
+Central African Republic,Rice - Retail,XAF,633.0494583333333,4732022.0,2011,0.381
+Central African Republic,Rice - Retail,XAF,603.2662375,4773306.0,2012,0.388
+Central African Republic,Rice - Retail,XAF,185.8,4798734.0,2014,0.37
+Central African Republic,Rice - Retail,XAF,234.1304347826087,4819333.0,2015,0.384
+Central African Republic,Rice - Retail,XAF,561.5384615384615,4904177.0,2016,0.391
+Central African Republic,Rice - Retail,XAF,420.76908396946567,4996741.0,2017,0.398
+Central African Republic,Rice - Retail,XAF,454.1227783410138,5094780.0,2018,0.405
+Central African Republic,Rice - Retail,XAF,526.0155279503106,5209324.0,2019,0.411
+Central African Republic,Rice - Retail,XAF,599.6672698360655,5343020.0,2020,0.407
+Central African Republic,Salt - Retail,XAF,475.732597,5343020.0,2020,0.407
+Central African Republic,Sesame - Retail,XAF,440.2,4798734.0,2014,0.37
+Central African Republic,Sesame - Retail,XAF,455.7,4819333.0,2015,0.384
+Central African Republic,Sesame - Retail,XAF,523.843401724138,4996741.0,2017,0.398
+Central African Republic,Sesame - Retail,XAF,582.8548052023121,5094780.0,2018,0.405
+Central African Republic,Sesame - Retail,XAF,605.6334733576642,5209324.0,2019,0.411
+Central African Republic,Sesame - Retail,XAF,551.1097880184332,5343020.0,2020,0.407
+Central African Republic,Sorghum - Retail,XAF,160.2,4798734.0,2014,0.37
+Central African Republic,Sorghum - Retail,XAF,205.2941176470588,4819333.0,2015,0.384
+Central African Republic,Sorghum - Retail,XAF,334.04533225806455,4996741.0,2017,0.398
+Central African Republic,Sorghum - Retail,XAF,388.1951105263158,5094780.0,2018,0.405
+Central African Republic,Sorghum - Retail,XAF,378.19433333333336,5209324.0,2019,0.411
+Central African Republic,Sorghum - Retail,XAF,232.20217647058826,5343020.0,2020,0.407
+Central African Republic,Squashes - Retail,XAF,513.25,4798734.0,2014,0.37
+Central African Republic,Squashes - Retail,XAF,735.1071428571429,4819333.0,2015,0.384
+Central African Republic,Squashes - Retail,XAF,1035.309025,5343020.0,2020,0.407
+Central African Republic,Sugar (white) - Retail,XAF,1119.0471257918553,5343020.0,2020,0.407
+Central African Republic,Wheat flour - Retail,XAF,454.55241666666666,4115138.0,2004,0.337
+Central African Republic,Wheat flour - Retail,XAF,480.01383333333337,4208834.0,2005,0.342
+Central African Republic,Wheat flour - Retail,XAF,521.890175,4294352.0,2006,0.345
+Central African Republic,Wheat flour - Retail,XAF,516.236175,4375569.0,2007,0.351
+Central African Republic,Wheat flour - Retail,XAF,762.6659791666666,4467233.0,2008,0.358
+Central African Republic,Wheat flour - Retail,XAF,721.082475,4564540.0,2009,0.364
+Central African Republic,Wheat flour - Retail,XAF,596.4662696969698,4660067.0,2010,0.372
+Central African Republic,Wheat flour - Retail,XAF,566.294475,4732022.0,2011,0.381
+Central African Republic,Wheat flour - Retail,XAF,563.1017666666667,4773306.0,2012,0.388
+Central African Republic,Wheat flour - Retail,XAF,594.2208333333333,4802428.0,2013,0.368
+Central African Republic,Wheat flour - Retail,XAF,660.0175,4798734.0,2014,0.37
+Central African Republic,Wheat flour - Retail,XAF,708.1916666666666,4819333.0,2015,0.384
+Central African Republic,Wheat flour - Retail,XAF,728.9925,4904177.0,2016,0.391
+Central African Republic,Wheat flour - Retail,XAF,679.5983333333334,4996741.0,2017,0.398
+Central African Republic,Wheat flour - Retail,XAF,708.919,5094780.0,2018,0.405
+Central African Republic,Wheat flour - Retail,XAF,597.7916666666666,5343020.0,2020,0.407
+Colombia,Apples (red) - Wholesale,COP,3028.5833333333335,46237930.0,2013,0.746
+Colombia,Apples (red) - Wholesale,COP,3217.4401909090907,46677947.0,2014,0.75
+Colombia,Apples (red) - Wholesale,COP,3088.0,47119728.0,2015,0.754
+Colombia,Bananas - Wholesale,COP,1029.4,46237930.0,2013,0.746
+Colombia,Bananas - Wholesale,COP,1061.3243243243244,46677947.0,2014,0.75
+Colombia,Bananas - Wholesale,COP,945.9142857142857,47119728.0,2015,0.754
+Colombia,Bananas - Wholesale,COP,990.5555555555555,47625955.0,2016,0.759
+Colombia,Bananas - Wholesale,COP,1027.7777777777778,48351671.0,2017,0.761
+Colombia,Bananas - Wholesale,COP,1027.2727272727273,49276961.0,2018,0.763
+Colombia,Bananas - Wholesale,COP,1148.0555555555557,50187406.0,2019,0.768
+Colombia,Bananas - Wholesale,COP,1392.453448275862,50930662.0,2020,0.756
+Colombia,Barley - Wholesale,COP,2663.957142857143,50930662.0,2020,0.756
+Colombia,"Beans (black, imported) - Wholesale",COP,5748.36,50930662.0,2020,0.756
+Colombia,Beans (cranberry) - Wholesale,COP,6346.21224489796,50930662.0,2020,0.756
+Colombia,"Beans (green, fresh) - Wholesale",COP,2520.3396551724136,50930662.0,2020,0.756
+Colombia,Beans (red) - Wholesale,COP,3519.9929166666666,42220940.0,2005,0.696
+Colombia,Beans (red) - Wholesale,COP,3345.653846153846,42772910.0,2006,0.698
+Colombia,Beans (red) - Wholesale,COP,3645.725,43306582.0,2007,0.71
+Colombia,Beans (red) - Wholesale,COP,3963.4375,43815313.0,2008,0.716
+Colombia,Beans (red) - Wholesale,COP,3887.7708333333335,44313917.0,2009,0.722
+Colombia,Beans (red) - Wholesale,COP,3999.1875,44816108.0,2010,0.726
+Colombia,Beans (red) - Wholesale,COP,4462.166666666667,45308899.0,2011,0.733
+Colombia,Beans (red) - Wholesale,COP,5304.6,45782417.0,2012,0.734
+Colombia,Beans (red) - Wholesale,COP,4710.736842105263,46237930.0,2013,0.746
+Colombia,Beans (red) - Wholesale,COP,3908.75,46677947.0,2014,0.75
+Colombia,Beans (red) - Wholesale,COP,6867.045454545455,47119728.0,2015,0.754
+Colombia,Beans (red) - Wholesale,COP,6480.833333333333,47625955.0,2016,0.759
+Colombia,Beans (red) - Wholesale,COP,5066.666666666667,48351671.0,2017,0.761
+Colombia,Beans (red) - Wholesale,COP,5470.0,49276961.0,2018,0.763
+Colombia,Beans (red) - Wholesale,COP,5404.166666666667,50187406.0,2019,0.768
+Colombia,Beans (red) - Wholesale,COP,5201.470511538461,50930662.0,2020,0.756
+Colombia,"Beans (red, fresh) - Wholesale",COP,1445.2,46237930.0,2013,0.746
+Colombia,"Beans (red, fresh) - Wholesale",COP,1788.6944444444443,46677947.0,2014,0.75
+Colombia,"Beans (red, fresh) - Wholesale",COP,2400.08,47119728.0,2015,0.754
+Colombia,"Beans (red, fresh) - Wholesale",COP,2633.3333333333335,47625955.0,2016,0.759
+Colombia,"Beans (red, fresh) - Wholesale",COP,2058.3333333333335,48351671.0,2017,0.761
+Colombia,"Beans (red, fresh) - Wholesale",COP,2390.909090909091,49276961.0,2018,0.763
+Colombia,"Beans (red, fresh) - Wholesale",COP,3020.8333333333335,50187406.0,2019,0.768
+Colombia,"Beans (red, fresh) - Wholesale",COP,3920.0,50930662.0,2020,0.756
+Colombia,Beans (string) - Wholesale,COP,1843.4285714285713,47119728.0,2015,0.754
+Colombia,Beans (string) - Wholesale,COP,1675.9722222222222,47625955.0,2016,0.759
+Colombia,Beans (string) - Wholesale,COP,1544.4166666666667,48351671.0,2017,0.761
+Colombia,Beans (string) - Wholesale,COP,1873.2424242424242,49276961.0,2018,0.763
+Colombia,Beans (string) - Wholesale,COP,1766.1944444444443,50187406.0,2019,0.768
+Colombia,Beans (string) - Wholesale,COP,2394.235,50930662.0,2020,0.756
+Colombia,Beetroots - Wholesale,COP,1934.2787458715595,50930662.0,2020,0.756
+Colombia,Blackberry - Wholesale,COP,2282.8571428571427,47119728.0,2015,0.754
+Colombia,Blackberry - Wholesale,COP,2522.277777777778,47625955.0,2016,0.759
+Colombia,Blackberry - Wholesale,COP,2219.0555555555557,48351671.0,2017,0.761
+Colombia,Blackberry - Wholesale,COP,2260.787878787879,49276961.0,2018,0.763
+Colombia,Blackberry - Wholesale,COP,2500.777777777778,50187406.0,2019,0.768
+Colombia,Blackberry - Wholesale,COP,2489.3529411764707,50930662.0,2020,0.756
+Colombia,Broccoli - Wholesale,COP,1922.6666666666667,47119728.0,2015,0.754
+Colombia,Broccoli - Wholesale,COP,2074.0555555555557,47625955.0,2016,0.759
+Colombia,Broccoli - Wholesale,COP,2581.9444444444443,48351671.0,2017,0.761
+Colombia,Broccoli - Wholesale,COP,2583.3030303030305,49276961.0,2018,0.763
+Colombia,Broccoli - Wholesale,COP,3013.472222222222,50187406.0,2019,0.768
+Colombia,Broccoli - Wholesale,COP,3406.823529411765,50930662.0,2020,0.756
+Colombia,Cabbage - Wholesale,COP,554.6348399999999,46237930.0,2013,0.746
+Colombia,Cabbage - Wholesale,COP,680.1666666666666,46677947.0,2014,0.75
+Colombia,Cabbage - Wholesale,COP,1309.3333333333333,47119728.0,2015,0.754
+Colombia,Carrots - Wholesale,COP,871.1538461538462,46237930.0,2013,0.746
+Colombia,Carrots - Wholesale,COP,951.7222222222222,46677947.0,2014,0.75
+Colombia,Carrots - Wholesale,COP,1155.6,47119728.0,2015,0.754
+Colombia,Carrots - Wholesale,COP,1155.5555555555557,47625955.0,2016,0.759
+Colombia,Carrots - Wholesale,COP,1615.2777777777778,48351671.0,2017,0.761
+Colombia,Carrots - Wholesale,COP,1301.5151515151515,49276961.0,2018,0.763
+Colombia,Carrots - Wholesale,COP,1209.7222222222222,50187406.0,2019,0.768
+Colombia,Carrots - Wholesale,COP,1222.3547945205478,50930662.0,2020,0.756
+Colombia,Cassava (dry) - Wholesale,COP,891.5,46237930.0,2013,0.746
+Colombia,Cassava (dry) - Wholesale,COP,1023.0416666666666,46677947.0,2014,0.75
+Colombia,Cassava (dry) - Wholesale,COP,1456.5882352941176,47119728.0,2015,0.754
+Colombia,Cassava (dry) - Wholesale,COP,1260.7777777777778,47625955.0,2016,0.759
+Colombia,Cassava (dry) - Wholesale,COP,1022.6944444444445,48351671.0,2017,0.761
+Colombia,Cassava (dry) - Wholesale,COP,1285.2727272727273,49276961.0,2018,0.763
+Colombia,Cassava (dry) - Wholesale,COP,1767.7777777777778,50187406.0,2019,0.768
+Colombia,Cassava (dry) - Wholesale,COP,1476.7857142857142,50930662.0,2020,0.756
+Colombia,Cassava - Wholesale,COP,965.7523809523809,50930662.0,2020,0.756
+Colombia,Cauliflower - Wholesale,COP,1534.84,46237930.0,2013,0.746
+Colombia,Cauliflower - Wholesale,COP,1733.75,46677947.0,2014,0.75
+Colombia,Cauliflower - Wholesale,COP,1883.0,47119728.0,2015,0.754
+Colombia,Cheese (local) - Wholesale,COP,12159.31761904762,50930662.0,2020,0.756
+Colombia,Cheese - Wholesale,COP,8520.75,46237930.0,2013,0.746
+Colombia,Cheese - Wholesale,COP,9032.59090909091,46677947.0,2014,0.75
+Colombia,Cheese - Wholesale,COP,7126.75,47119728.0,2015,0.754
+Colombia,Cheese - Wholesale,COP,8083.333333333333,47625955.0,2016,0.759
+Colombia,Cheese - Wholesale,COP,8000.0,48351671.0,2017,0.761
+Colombia,Cheese - Wholesale,COP,7909.090909090909,49276961.0,2018,0.763
+Colombia,Cheese - Wholesale,COP,8833.333333333334,50187406.0,2019,0.768
+Colombia,Cheese - Wholesale,COP,10572.280113636363,50930662.0,2020,0.756
+Colombia,Chickpeas (imported) - Wholesale,COP,2790.2477777777776,42220940.0,2005,0.696
+Colombia,Chickpeas (imported) - Wholesale,COP,2862.931818181818,42772910.0,2006,0.698
+Colombia,Chickpeas (imported) - Wholesale,COP,3005.8541666666665,43306582.0,2007,0.71
+Colombia,Chickpeas (imported) - Wholesale,COP,3234.2083333333335,43815313.0,2008,0.716
+Colombia,Chickpeas (imported) - Wholesale,COP,3267.0,44313917.0,2009,0.722
+Colombia,Chickpeas (imported) - Wholesale,COP,3095.413043478261,44816108.0,2010,0.726
+Colombia,Chickpeas (imported) - Wholesale,COP,3923.6111111111113,45308899.0,2011,0.733
+Colombia,Chickpeas (imported) - Wholesale,COP,3553.75,45782417.0,2012,0.734
+Colombia,Chickpeas (imported) - Wholesale,COP,3408.25,46237930.0,2013,0.746
+Colombia,Chickpeas (imported) - Wholesale,COP,3000.0,46677947.0,2014,0.75
+Colombia,Chickpeas (imported) - Wholesale,COP,3000.0,47119728.0,2015,0.754
+Colombia,Coffee - Wholesale,COP,16659.371428571427,50930662.0,2020,0.756
+Colombia,Cucumbers (greenhouse) - Wholesale,COP,959.4615384615385,46237930.0,2013,0.746
+Colombia,Cucumbers (greenhouse) - Wholesale,COP,1015.6724137931035,46677947.0,2014,0.75
+Colombia,Cucumbers (greenhouse) - Wholesale,COP,1487.5,47119728.0,2015,0.754
+Colombia,Fish (catfish) - Wholesale,COP,15982.576040625,50930662.0,2020,0.756
+Colombia,Fish (dry) - Wholesale,COP,17768.3,46237930.0,2013,0.746
+Colombia,Fish (dry) - Wholesale,COP,16848.666666666668,46677947.0,2014,0.75
+Colombia,Fish (dry) - Wholesale,COP,16000.0,47119728.0,2015,0.754
+Colombia,Fish (frozen) - Wholesale,COP,11612.360169491525,50930662.0,2020,0.756
+Colombia,"Fish (sardine, canned) - Wholesale",COP,10781.016153846154,50930662.0,2020,0.756
+Colombia,Fish (tilapia) - Wholesale,COP,9905.510119642857,50930662.0,2020,0.756
+Colombia,"Fish (tuna, canned) - Wholesale",COP,25404.958267716538,50930662.0,2020,0.756
+Colombia,Garlic - Wholesale,COP,3191.4210526315787,46237930.0,2013,0.746
+Colombia,Garlic - Wholesale,COP,3074.5370375,46677947.0,2014,0.75
+Colombia,Garlic - Wholesale,COP,3156.5,47119728.0,2015,0.754
+Colombia,Garlic - Wholesale,COP,5658.935714285714,50930662.0,2020,0.756
+Colombia,Guava - Wholesale,COP,1471.4285714285713,47119728.0,2015,0.754
+Colombia,Guava - Wholesale,COP,1891.6666666666667,47625955.0,2016,0.759
+Colombia,Guava - Wholesale,COP,1758.3333333333333,48351671.0,2017,0.761
+Colombia,Guava - Wholesale,COP,1518.1818181818182,49276961.0,2018,0.763
+Colombia,Guava - Wholesale,COP,1550.0,50187406.0,2019,0.768
+Colombia,Guava - Wholesale,COP,1537.424074074074,50930662.0,2020,0.756
+Colombia,Lemons - Wholesale,COP,1797.3387096774193,50930662.0,2020,0.756
+Colombia,Lentils (imported) - Wholesale,COP,2197.2727272727275,42220940.0,2005,0.696
+Colombia,Lentils (imported) - Wholesale,COP,2200.0,42772910.0,2006,0.698
+Colombia,Lentils (imported) - Wholesale,COP,1671.842105263158,43306582.0,2007,0.71
+Colombia,Lentils (imported) - Wholesale,COP,2620.375,43815313.0,2008,0.716
+Colombia,Lentils (imported) - Wholesale,COP,2849.5416666666665,44313917.0,2009,0.722
+Colombia,Lentils (imported) - Wholesale,COP,2810.8571428571427,44816108.0,2010,0.726
+Colombia,Lentils (imported) - Wholesale,COP,2475.133333333333,45308899.0,2011,0.733
+Colombia,Lentils (imported) - Wholesale,COP,2209.5333333333333,45782417.0,2012,0.734
+Colombia,Lentils (imported) - Wholesale,COP,1940.9444444444443,46237930.0,2013,0.746
+Colombia,Lentils (imported) - Wholesale,COP,2034.0,46677947.0,2014,0.75
+Colombia,Lentils (imported) - Wholesale,COP,3088.391304347826,47119728.0,2015,0.754
+Colombia,Lentils (imported) - Wholesale,COP,5410.833333333333,47625955.0,2016,0.759
+Colombia,Lentils (imported) - Wholesale,COP,4233.333333333333,48351671.0,2017,0.761
+Colombia,Lentils (imported) - Wholesale,COP,3086.3636363636365,49276961.0,2018,0.763
+Colombia,Lentils (imported) - Wholesale,COP,2674.1666666666665,50187406.0,2019,0.768
+Colombia,Lentils (imported) - Wholesale,COP,3611.20956284153,50930662.0,2020,0.756
+Colombia,Maize (local) - Wholesale,COP,853.2424812030075,50930662.0,2020,0.756
+Colombia,Maize (white) - Wholesale,COP,456.84833333333336,39215135.0,2000,0.666
+Colombia,Maize (white) - Wholesale,COP,533.9708333333333,39837875.0,2001,0.667
+Colombia,Maize (white) - Wholesale,COP,517.2391666666666,40454050.0,2002,0.67
+Colombia,Maize (white) - Wholesale,COP,603.4591666666666,41057687.0,2003,0.677
+Colombia,Maize (white) - Wholesale,COP,535.5991666666667,41648268.0,2004,0.683
+Colombia,Maize (white) - Wholesale,COP,623.5736111111112,42220940.0,2005,0.696
+Colombia,Maize (white) - Wholesale,COP,669.5833333333334,42772910.0,2006,0.698
+Colombia,Maize (white) - Wholesale,COP,808.5294117647059,43306582.0,2007,0.71
+Colombia,Maize (white) - Wholesale,COP,818.5151515151515,43815313.0,2008,0.716
+Colombia,Maize (white) - Wholesale,COP,908.525,44313917.0,2009,0.722
+Colombia,Maize (white) - Wholesale,COP,913.8222222222222,44816108.0,2010,0.726
+Colombia,Maize (white) - Wholesale,COP,1048.9166666666667,45308899.0,2011,0.733
+Colombia,Maize (white) - Wholesale,COP,1432.1818181818182,45782417.0,2012,0.734
+Colombia,Maize (white) - Wholesale,COP,948.7153846153846,46237930.0,2013,0.746
+Colombia,Maize (white) - Wholesale,COP,1439.1666666666667,46677947.0,2014,0.75
+Colombia,Maize (white) - Wholesale,COP,1512.5208333333333,47119728.0,2015,0.754
+Colombia,Maize (white) - Wholesale,COP,1556.6029166666667,47625955.0,2016,0.759
+Colombia,Maize (white) - Wholesale,COP,1456.2791666666665,48351671.0,2017,0.761
+Colombia,Maize (white) - Wholesale,COP,1447.8521739130433,49276961.0,2018,0.763
+Colombia,Maize (white) - Wholesale,COP,1706.3062499999999,50187406.0,2019,0.768
+Colombia,Maize (white) - Wholesale,COP,1548.6397435897436,50930662.0,2020,0.756
+Colombia,Maize (yellow) - Wholesale,COP,486.24708333333336,39215135.0,2000,0.666
+Colombia,Maize (yellow) - Wholesale,COP,520.9725,39837875.0,2001,0.667
+Colombia,Maize (yellow) - Wholesale,COP,555.0395833333333,40454050.0,2002,0.67
+Colombia,Maize (yellow) - Wholesale,COP,624.7308333333334,41057687.0,2003,0.677
+Colombia,Maize (yellow) - Wholesale,COP,634.7233333333334,41648268.0,2004,0.683
+Colombia,Maize (yellow) - Wholesale,COP,572.8079166666666,42220940.0,2005,0.696
+Colombia,Maize (yellow) - Wholesale,COP,642.5416666666666,42772910.0,2006,0.698
+Colombia,Maize (yellow) - Wholesale,COP,740.2916666666666,43306582.0,2007,0.71
+Colombia,Maize (yellow) - Wholesale,COP,859.4166666666666,43815313.0,2008,0.716
+Colombia,Maize (yellow) - Wholesale,COP,800.2083333333334,44313917.0,2009,0.722
+Colombia,Maize (yellow) - Wholesale,COP,783.8333333333334,44816108.0,2010,0.726
+Colombia,Maize (yellow) - Wholesale,COP,977.554347826087,45308899.0,2011,0.733
+Colombia,Maize (yellow) - Wholesale,COP,844.0505882352942,45782417.0,2012,0.734
+Colombia,Maize (yellow) - Wholesale,COP,943.0833333333334,46237930.0,2013,0.746
+Colombia,Maize (yellow) - Wholesale,COP,956.1388888888889,46677947.0,2014,0.75
+Colombia,Maize (yellow) - Wholesale,COP,1057.4305555555557,47119728.0,2015,0.754
+Colombia,Maize (yellow) - Wholesale,COP,1150.5041666666666,47625955.0,2016,0.759
+Colombia,Maize (yellow) - Wholesale,COP,1002.5999999999999,48351671.0,2017,0.761
+Colombia,Maize (yellow) - Wholesale,COP,1013.462857142857,49276961.0,2018,0.763
+Colombia,Maize (yellow) - Wholesale,COP,1262.5069444444443,50187406.0,2019,0.768
+Colombia,Maize (yellow) - Wholesale,COP,1466.1939024390242,50930662.0,2020,0.756
+Colombia,Maize flour - Wholesale,COP,1882.5,46237930.0,2013,0.746
+Colombia,Maize flour - Wholesale,COP,1881.0,46677947.0,2014,0.75
+Colombia,Maize flour - Wholesale,COP,1915.75,47119728.0,2015,0.754
+Colombia,Maize flour - Wholesale,COP,2000.0,47625955.0,2016,0.759
+Colombia,Maize flour - Wholesale,COP,1933.3333333333333,48351671.0,2017,0.761
+Colombia,Maize flour - Wholesale,COP,1960.0,49276961.0,2018,0.763
+Colombia,Maize flour - Wholesale,COP,2016.6666666666667,50187406.0,2019,0.768
+Colombia,Maize flour - Wholesale,COP,2975.280891719745,50930662.0,2020,0.756
+Colombia,Mangoes - Wholesale,COP,2743.3333333333335,47119728.0,2015,0.754
+Colombia,Mangoes - Wholesale,COP,2657.277777777778,47625955.0,2016,0.759
+Colombia,Mangoes - Wholesale,COP,3272.1944444444443,48351671.0,2017,0.761
+Colombia,Mangoes - Wholesale,COP,2531.3939393939395,49276961.0,2018,0.763
+Colombia,Mangoes - Wholesale,COP,3048.222222222222,50187406.0,2019,0.768
+Colombia,Mangoes - Wholesale,COP,2126.1111111111113,50930662.0,2020,0.756
+Colombia,Meat (beef) - Wholesale,COP,11483.478260869566,46237930.0,2013,0.746
+Colombia,Meat (beef) - Wholesale,COP,11146.055555555555,46677947.0,2014,0.75
+Colombia,Meat (beef) - Wholesale,COP,13070.0,47119728.0,2015,0.754
+Colombia,Meat (beef) - Wholesale,COP,16625.0,47625955.0,2016,0.759
+Colombia,Meat (beef) - Wholesale,COP,16008.333333333334,48351671.0,2017,0.761
+Colombia,Meat (beef) - Wholesale,COP,16384.18181818182,49276961.0,2018,0.763
+Colombia,Meat (beef) - Wholesale,COP,18908.333333333332,50187406.0,2019,0.768
+Colombia,Meat (beef) - Wholesale,COP,17289.261206896554,50930662.0,2020,0.756
+Colombia,"Meat (beef, minced) - Wholesale",COP,5763.409166666667,42220940.0,2005,0.696
+Colombia,"Meat (beef, minced) - Wholesale",COP,6044.666666666667,42772910.0,2006,0.698
+Colombia,"Meat (beef, minced) - Wholesale",COP,7204.1,43306582.0,2007,0.71
+Colombia,"Meat (beef, minced) - Wholesale",COP,7528.648648648648,43815313.0,2008,0.716
+Colombia,"Meat (beef, minced) - Wholesale",COP,7800.055555555556,44313917.0,2009,0.722
+Colombia,"Meat (beef, minced) - Wholesale",COP,7408.022222222222,44816108.0,2010,0.726
+Colombia,"Meat (beef, minced) - Wholesale",COP,7531.895833333333,45308899.0,2011,0.733
+Colombia,Meat (chicken) - Wholesale,COP,4009.4761904761904,43306582.0,2007,0.71
+Colombia,Meat (chicken) - Wholesale,COP,4006.448275862069,43815313.0,2008,0.716
+Colombia,Meat (chicken) - Wholesale,COP,4224.4838709677415,44313917.0,2009,0.722
+Colombia,Meat (chicken) - Wholesale,COP,4016.5,44816108.0,2010,0.726
+Colombia,Meat (chicken) - Wholesale,COP,4330.257142857143,45308899.0,2011,0.733
+Colombia,Meat (chicken) - Wholesale,COP,5135.444444444444,45782417.0,2012,0.734
+Colombia,Meat (chicken) - Wholesale,COP,4490.833333333333,46237930.0,2013,0.746
+Colombia,Meat (chicken) - Wholesale,COP,4934.25,46677947.0,2014,0.75
+Colombia,Meat (chicken) - Wholesale,COP,5388.5,47119728.0,2015,0.754
+Colombia,Meat (chicken) - Wholesale,COP,5846.25,47625955.0,2016,0.759
+Colombia,Meat (chicken) - Wholesale,COP,6477.5,48351671.0,2017,0.761
+Colombia,Meat (chicken) - Wholesale,COP,7214.090909090909,49276961.0,2018,0.763
+Colombia,Meat (chicken) - Wholesale,COP,7856.666666666667,50187406.0,2019,0.768
+Colombia,Meat (chicken) - Wholesale,COP,8146.30129032258,50930662.0,2020,0.756
+Colombia,"Meat (chicken, whole, frozen) - Wholesale",COP,6264.070535714286,50930662.0,2020,0.756
+Colombia,Meat (pork) - Wholesale,COP,7300.0,46237930.0,2013,0.746
+Colombia,Meat (pork) - Wholesale,COP,10550.0,46677947.0,2014,0.75
+Colombia,Meat (pork) - Wholesale,COP,13658.333333333334,47119728.0,2015,0.754
+Colombia,Meat (pork) - Wholesale,COP,15358.333333333334,47625955.0,2016,0.759
+Colombia,Meat (pork) - Wholesale,COP,14491.666666666666,48351671.0,2017,0.761
+Colombia,Meat (pork) - Wholesale,COP,14400.0,49276961.0,2018,0.763
+Colombia,Meat (pork) - Wholesale,COP,14400.0,50187406.0,2019,0.768
+Colombia,Meat (pork) - Wholesale,COP,15239.569105691056,50930662.0,2020,0.756
+Colombia,Milk (powder) - Wholesale,COP,24892.983067200003,50930662.0,2020,0.756
+Colombia,Oil (sunflower) - Wholesale,COP,8909.010204081633,50930662.0,2020,0.756
+Colombia,Onions (local) - Wholesale,COP,1501.3396825396824,50930662.0,2020,0.756
+Colombia,Onions (red) - Wholesale,COP,1282.36,46237930.0,2013,0.746
+Colombia,Onions (red) - Wholesale,COP,1953.111111111111,46677947.0,2014,0.75
+Colombia,Onions (red) - Wholesale,COP,2898.0857142857144,47119728.0,2015,0.754
+Colombia,Onions (red) - Wholesale,COP,2077.777777777778,47625955.0,2016,0.759
+Colombia,Onions (red) - Wholesale,COP,2766.722222222222,48351671.0,2017,0.761
+Colombia,Onions (red) - Wholesale,COP,2012.030303030303,49276961.0,2018,0.763
+Colombia,Onions (red) - Wholesale,COP,2052.1111111111113,50187406.0,2019,0.768
+Colombia,Onions (red) - Wholesale,COP,2039.275394736842,50930662.0,2020,0.756
+Colombia,Onions (white) - Wholesale,COP,1059.888888888889,45782417.0,2012,0.734
+Colombia,Onions (white) - Wholesale,COP,930.3333333333334,46237930.0,2013,0.746
+Colombia,Onions (white) - Wholesale,COP,1356.138888888889,46677947.0,2014,0.75
+Colombia,Onions (white) - Wholesale,COP,1545.6,47119728.0,2015,0.754
+Colombia,Onions (white) - Wholesale,COP,1759.1666666666667,47625955.0,2016,0.759
+Colombia,Onions (white) - Wholesale,COP,1990.0,48351671.0,2017,0.761
+Colombia,Onions (white) - Wholesale,COP,1122.4242424242425,49276961.0,2018,0.763
+Colombia,Onions (white) - Wholesale,COP,1516.6666666666667,50187406.0,2019,0.768
+Colombia,Onions (white) - Wholesale,COP,1543.8587786259543,50930662.0,2020,0.756
+Colombia,Oranges (big size) - Wholesale,COP,689.0,46237930.0,2013,0.746
+Colombia,Oranges (big size) - Wholesale,COP,835.1666666666666,46677947.0,2014,0.75
+Colombia,Oranges (big size) - Wholesale,COP,1030.3333333333333,47119728.0,2015,0.754
+Colombia,Oranges (big size) - Wholesale,COP,1174.7916666666667,47625955.0,2016,0.759
+Colombia,Oranges (big size) - Wholesale,COP,1005.8333333333334,48351671.0,2017,0.761
+Colombia,Oranges (big size) - Wholesale,COP,1031.8181818181818,49276961.0,2018,0.763
+Colombia,Oranges (big size) - Wholesale,COP,1163.3333333333333,50187406.0,2019,0.768
+Colombia,Oranges (big size) - Wholesale,COP,1330.0,50930662.0,2020,0.756
+Colombia,Oranges - Wholesale,COP,955.2229166666666,50930662.0,2020,0.756
+Colombia,Papaya - Wholesale,COP,1477.7142857142858,47119728.0,2015,0.754
+Colombia,Papaya - Wholesale,COP,1640.0,47625955.0,2016,0.759
+Colombia,Papaya - Wholesale,COP,1750.0,48351671.0,2017,0.761
+Colombia,Papaya - Wholesale,COP,1759.090909090909,49276961.0,2018,0.763
+Colombia,Papaya - Wholesale,COP,2036.7916666666667,50187406.0,2019,0.768
+Colombia,Papaya - Wholesale,COP,1735.8333333333333,50930662.0,2020,0.756
+Colombia,Passion fruit - Wholesale,COP,2166.2686440677967,50930662.0,2020,0.756
+Colombia,Pasta - Wholesale,COP,4162.2,46237930.0,2013,0.746
+Colombia,Pasta - Wholesale,COP,4349.333333333333,46677947.0,2014,0.75
+Colombia,Pasta - Wholesale,COP,4160.0,47119728.0,2015,0.754
+Colombia,Pasta - Wholesale,COP,5171.466564417178,50930662.0,2020,0.756
+Colombia,Peas (fresh) - Wholesale,COP,3275.592857142857,50930662.0,2020,0.756
+Colombia,"Peas (green, dry) - Wholesale",COP,1238.3316666666667,42220940.0,2005,0.696
+Colombia,"Peas (green, dry) - Wholesale",COP,1129.4545454545455,42772910.0,2006,0.698
+Colombia,"Peas (green, dry) - Wholesale",COP,1366.409090909091,43306582.0,2007,0.71
+Colombia,"Peas (green, dry) - Wholesale",COP,1837.9166666666667,43815313.0,2008,0.716
+Colombia,"Peas (green, dry) - Wholesale",COP,2006.1875,44313917.0,2009,0.722
+Colombia,"Peas (green, dry) - Wholesale",COP,1875.35,44816108.0,2010,0.726
+Colombia,"Peas (green, dry) - Wholesale",COP,1702.121212121212,45308899.0,2011,0.733
+Colombia,"Peas (green, dry) - Wholesale",COP,1500.0,45782417.0,2012,0.734
+Colombia,"Peas (green, dry) - Wholesale",COP,2255.8518518518517,46237930.0,2013,0.746
+Colombia,"Peas (green, dry) - Wholesale",COP,2192.3611111111113,46677947.0,2014,0.75
+Colombia,"Peas (green, dry) - Wholesale",COP,2095.7916666666665,47119728.0,2015,0.754
+Colombia,"Peas (green, dry) - Wholesale",COP,2449.1666666666665,47625955.0,2016,0.759
+Colombia,"Peas (green, dry) - Wholesale",COP,2095.8333333333335,48351671.0,2017,0.761
+Colombia,"Peas (green, dry) - Wholesale",COP,2062.7272727272725,49276961.0,2018,0.763
+Colombia,"Peas (green, dry) - Wholesale",COP,2492.5,50187406.0,2019,0.768
+Colombia,"Peas (green, dry) - Wholesale",COP,2440.0,50930662.0,2020,0.756
+Colombia,Peppers (red) - Wholesale,COP,2315.726571428572,50930662.0,2020,0.756
+Colombia,Plantains - Wholesale,COP,1128.7777777777778,45782417.0,2012,0.734
+Colombia,Plantains - Wholesale,COP,1121.1851851851852,46237930.0,2013,0.746
+Colombia,Plantains - Wholesale,COP,1199.5215055555554,46677947.0,2014,0.75
+Colombia,Plantains - Wholesale,COP,1352.6666666666667,47119728.0,2015,0.754
+Colombia,Plantains - Wholesale,COP,1824.4166666666667,47625955.0,2016,0.759
+Colombia,Plantains - Wholesale,COP,1221.5416666666667,48351671.0,2017,0.761
+Colombia,Plantains - Wholesale,COP,1679.1363636363637,49276961.0,2018,0.763
+Colombia,Plantains - Wholesale,COP,1943.9583333333333,50187406.0,2019,0.768
+Colombia,Plantains - Wholesale,COP,1337.261875,50930662.0,2020,0.756
+Colombia,Potatoes (black) - Wholesale,COP,755.45965,50930662.0,2020,0.756
+Colombia,Potatoes (unica) - Wholesale,COP,538.9226086956521,42220940.0,2005,0.696
+Colombia,Potatoes (unica) - Wholesale,COP,533.7777777777778,42772910.0,2006,0.698
+Colombia,Potatoes (unica) - Wholesale,COP,275.02777777777777,43306582.0,2007,0.71
+Colombia,Potatoes (unica) - Wholesale,COP,613.0277777777778,43815313.0,2008,0.716
+Colombia,Potatoes (unica) - Wholesale,COP,603.0277777777778,44313917.0,2009,0.722
+Colombia,Potatoes (unica) - Wholesale,COP,622.5833333333334,44816108.0,2010,0.726
+Colombia,Potatoes (unica) - Wholesale,COP,643.3333333333334,45308899.0,2011,0.733
+Colombia,Potatoes (unica) - Wholesale,COP,523.0466666666667,45782417.0,2012,0.734
+Colombia,Potatoes - Wholesale,COP,825.8333333333334,45782417.0,2012,0.734
+Colombia,Potatoes - Wholesale,COP,928.2692307692307,46237930.0,2013,0.746
+Colombia,Potatoes - Wholesale,COP,1142.861111111111,46677947.0,2014,0.75
+Colombia,Potatoes - Wholesale,COP,1085.64,47119728.0,2015,0.754
+Colombia,Potatoes - Wholesale,COP,1214.1666666666667,47625955.0,2016,0.759
+Colombia,Potatoes - Wholesale,COP,812.5,48351671.0,2017,0.761
+Colombia,Potatoes - Wholesale,COP,1007.2727272727273,49276961.0,2018,0.763
+Colombia,Potatoes - Wholesale,COP,1099.1666666666667,50187406.0,2019,0.768
+Colombia,Potatoes - Wholesale,COP,967.3392156862745,50930662.0,2020,0.756
+Colombia,Pumpkin - Wholesale,COP,964.3809523809524,47119728.0,2015,0.754
+Colombia,Pumpkin - Wholesale,COP,666.9444444444445,47625955.0,2016,0.759
+Colombia,Pumpkin - Wholesale,COP,795.8333333333334,48351671.0,2017,0.761
+Colombia,Pumpkin - Wholesale,COP,700.0,49276961.0,2018,0.763
+Colombia,Pumpkin - Wholesale,COP,755.5555555555555,50187406.0,2019,0.768
+Colombia,Pumpkin - Wholesale,COP,801.6154605263158,50930662.0,2020,0.756
+Colombia,Rice (high quality) - Wholesale,COP,2844.148447204969,50930662.0,2020,0.756
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,960.3119444444445,39215135.0,2000,0.666
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,1078.2866583333334,39837875.0,2001,0.667
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,1099.4100027777777,40454050.0,2002,0.67
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,1234.7586000000001,41057687.0,2003,0.677
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,1263.4475055555554,41648268.0,2004,0.683
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,1236.6602777777778,42220940.0,2005,0.696
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,1334.1666666666667,42772910.0,2006,0.698
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,1413.111111111111,43306582.0,2007,0.71
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,2020.25,43815313.0,2008,0.716
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,1960.1666666666667,44313917.0,2009,0.722
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,1868.8055555555557,44816108.0,2010,0.726
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,2114.6762857142858,45308899.0,2011,0.733
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,2423.5570791666664,45782417.0,2012,0.734
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,2134.4283312499997,46237930.0,2013,0.746
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,2128.38541875,46677947.0,2014,0.75
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,2835.2979145833337,47119728.0,2015,0.754
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,2903.7277062499998,47625955.0,2016,0.759
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,2424.4791645833334,48351671.0,2017,0.761
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,2271.216675,49276961.0,2018,0.763
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,2518.9687541666667,50187406.0,2019,0.768
+Colombia,"Rice (ordinary, first quality) - Wholesale",COP,3412.8416666666667,50930662.0,2020,0.756
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,882.7483333333333,39215135.0,2000,0.666
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,981.7837499999999,39837875.0,2001,0.667
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,993.0545833333334,40454050.0,2002,0.67
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,1116.8420791666667,41057687.0,2003,0.677
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,1070.208325,41648268.0,2004,0.683
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,1023.5962458333333,42220940.0,2005,0.696
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,1124.9166666666667,42772910.0,2006,0.698
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,1271.0833333333333,43306582.0,2007,0.71
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,1878.9166666666667,43815313.0,2008,0.716
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,1783.5833333333333,44313917.0,2009,0.722
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,1740.75,44816108.0,2010,0.726
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,1960.9270833333333,45308899.0,2011,0.733
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,2210.0978642857144,45782417.0,2012,0.734
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,1871.48125,46237930.0,2013,0.746
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,1876.75,46677947.0,2014,0.75
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,2598.6512541666666,47119728.0,2015,0.754
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,2640.7416708333335,47625955.0,2016,0.759
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,2141.3395708333333,48351671.0,2017,0.761
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,2028.6166624999998,49276961.0,2018,0.763
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,2307.5208291666668,50187406.0,2019,0.768
+Colombia,"Rice (ordinary, second quality) - Wholesale",COP,3107.845825,50930662.0,2020,0.756
+Colombia,Salt (iodised) - Wholesale,COP,1072.2026785714286,50930662.0,2020,0.756
+Colombia,Salt - Wholesale,COP,610.4545454545455,46237930.0,2013,0.746
+Colombia,Salt - Wholesale,COP,600.0,46677947.0,2014,0.75
+Colombia,Salt - Wholesale,COP,600.0,47119728.0,2015,0.754
+Colombia,Spinach - Wholesale,COP,1412.2857142857142,47119728.0,2015,0.754
+Colombia,Spinach - Wholesale,COP,2052.777777777778,47625955.0,2016,0.759
+Colombia,Spinach - Wholesale,COP,2078.0833333333335,48351671.0,2017,0.761
+Colombia,Spinach - Wholesale,COP,2239.060606060606,49276961.0,2018,0.763
+Colombia,Spinach - Wholesale,COP,2077.777777777778,50187406.0,2019,0.768
+Colombia,Spinach - Wholesale,COP,3056.0639423076927,50930662.0,2020,0.756
+Colombia,Sugar (brown) - Wholesale,COP,1730.25,42772910.0,2006,0.698
+Colombia,Sugar (brown) - Wholesale,COP,1563.3939393939395,43306582.0,2007,0.71
+Colombia,Sugar (brown) - Wholesale,COP,1460.138888888889,43815313.0,2008,0.716
+Colombia,Sugar (brown) - Wholesale,COP,1603.111111111111,44313917.0,2009,0.722
+Colombia,Sugar (brown) - Wholesale,COP,2014.0,44816108.0,2010,0.726
+Colombia,Sugar (brown) - Wholesale,COP,2157.71875,45308899.0,2011,0.733
+Colombia,Sugar (brown) - Wholesale,COP,2095.0,45782417.0,2012,0.734
+Colombia,Sugar (brown) - Wholesale,COP,3221.485164835165,50930662.0,2020,0.756
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,679.15625,42220940.0,2005,0.696
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,1015.4166666666666,42772910.0,2006,0.698
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,1600.0208333333333,43306582.0,2007,0.71
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,1302.5833333333333,43815313.0,2008,0.716
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,1022.4791666666666,44313917.0,2009,0.722
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,1247.5833333333333,44816108.0,2010,0.726
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,1632.3809523809523,45308899.0,2011,0.733
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,1219.3684210526317,45782417.0,2012,0.734
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,750.0,46237930.0,2013,0.746
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,731.7142857142857,47119728.0,2015,0.754
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,1202.0833333333333,47625955.0,2016,0.759
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,1583.3333333333333,48351671.0,2017,0.761
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,999.9090909090909,49276961.0,2018,0.763
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,954.1666666666666,50187406.0,2019,0.768
+Colombia,"Sugar (brown, loaf) - Wholesale",COP,1240.0,50930662.0,2020,0.756
+Colombia,Sugar (white) - Wholesale,COP,931.0770791666667,39215135.0,2000,0.666
+Colombia,Sugar (white) - Wholesale,COP,1150.9004125,39837875.0,2001,0.667
+Colombia,Sugar (white) - Wholesale,COP,1146.306675,40454050.0,2002,0.67
+Colombia,Sugar (white) - Wholesale,COP,1163.9754166666667,41057687.0,2003,0.677
+Colombia,Sugar (white) - Wholesale,COP,1063.2550041666666,41648268.0,2004,0.683
+Colombia,Sugar (white) - Wholesale,COP,1134.7929083333333,42220940.0,2005,0.696
+Colombia,Sugar (white) - Wholesale,COP,1504.125,42772910.0,2006,0.698
+Colombia,Sugar (white) - Wholesale,COP,1235.2083333333333,43306582.0,2007,0.71
+Colombia,Sugar (white) - Wholesale,COP,1289.875,43815313.0,2008,0.716
+Colombia,Sugar (white) - Wholesale,COP,1536.375,44313917.0,2009,0.722
+Colombia,Sugar (white) - Wholesale,COP,1936.875,44816108.0,2010,0.726
+Colombia,Sugar (white) - Wholesale,COP,1935.9583333333333,45308899.0,2011,0.733
+Colombia,Sugar (white) - Wholesale,COP,1529.2882352941178,45782417.0,2012,0.734
+Colombia,Sugar (white) - Wholesale,COP,1442.1680555555556,46237930.0,2013,0.746
+Colombia,Sugar (white) - Wholesale,COP,1482.8575,46677947.0,2014,0.75
+Colombia,Sugar (white) - Wholesale,COP,1913.2138916666668,47119728.0,2015,0.754
+Colombia,Sugar (white) - Wholesale,COP,2485.4027805555556,47625955.0,2016,0.759
+Colombia,Sugar (white) - Wholesale,COP,2125.6861166666667,48351671.0,2017,0.761
+Colombia,Sugar (white) - Wholesale,COP,1765.6652777777776,49276961.0,2018,0.763
+Colombia,Sugar (white) - Wholesale,COP,2094.994447222222,50187406.0,2019,0.768
+Colombia,Sugar (white) - Wholesale,COP,2274.2333444444444,50930662.0,2020,0.756
+Colombia,Sugar - Wholesale,COP,2049.84375,45782417.0,2012,0.734
+Colombia,Sugar - Wholesale,COP,1655.3157894736842,46237930.0,2013,0.746
+Colombia,Sugar - Wholesale,COP,1696.0833333333333,46677947.0,2014,0.75
+Colombia,Sugar - Wholesale,COP,2150.8695652173915,47119728.0,2015,0.754
+Colombia,Sugar - Wholesale,COP,2749.4166666666665,47625955.0,2016,0.759
+Colombia,Sugar - Wholesale,COP,2655.8333333333335,48351671.0,2017,0.761
+Colombia,Sugar - Wholesale,COP,2411.818181818182,49276961.0,2018,0.763
+Colombia,Sugar - Wholesale,COP,2727.5,50187406.0,2019,0.768
+Colombia,Sugar - Wholesale,COP,2588.3395,50930662.0,2020,0.756
+Colombia,Tomatoes (dried) - Wholesale,COP,1281.0714285714287,47119728.0,2015,0.754
+Colombia,Tomatoes (dried) - Wholesale,COP,1694.1666666666667,47625955.0,2016,0.759
+Colombia,Tomatoes (dried) - Wholesale,COP,1687.5,48351671.0,2017,0.761
+Colombia,Tomatoes (dried) - Wholesale,COP,1838.1818181818182,49276961.0,2018,0.763
+Colombia,Tomatoes (dried) - Wholesale,COP,1760.8333333333333,50187406.0,2019,0.768
+Colombia,Tomatoes (dried) - Wholesale,COP,2022.0,50930662.0,2020,0.756
+Colombia,Tomatoes (local) - Wholesale,COP,1795.7160714285715,50930662.0,2020,0.756
+Colombia,Tomatoes - Wholesale,COP,1472.25,45782417.0,2012,0.734
+Colombia,Tomatoes - Wholesale,COP,1298.6,46237930.0,2013,0.746
+Colombia,Tomatoes - Wholesale,COP,1547.6444444444444,46677947.0,2014,0.75
+Colombia,Tomatoes - Wholesale,COP,1766.36,47119728.0,2015,0.754
+Colombia,Tomatoes - Wholesale,COP,1647.5,47625955.0,2016,0.759
+Colombia,Tomatoes - Wholesale,COP,1761.0,48351671.0,2017,0.761
+Colombia,Tomatoes - Wholesale,COP,1774.3181818181818,49276961.0,2018,0.763
+Colombia,Tomatoes - Wholesale,COP,1712.125,50187406.0,2019,0.768
+Colombia,Tomatoes - Wholesale,COP,1771.400821830986,50930662.0,2020,0.756
+Colombia,Wheat - Wholesale,COP,7563.327966101694,50930662.0,2020,0.756
+Colombia,Wheat flour (local) - Wholesale,COP,7801.062345679013,50930662.0,2020,0.756
+Colombia,Wheat flour - Wholesale,COP,739.1970833333334,39215135.0,2000,0.666
+Colombia,Wheat flour - Wholesale,COP,792.9158333333334,39837875.0,2001,0.667
+Colombia,Wheat flour - Wholesale,COP,855.8579208333334,40454050.0,2002,0.67
+Colombia,Wheat flour - Wholesale,COP,1058.6345875,41057687.0,2003,0.677
+Colombia,Wheat flour - Wholesale,COP,1113.2254166666667,41648268.0,2004,0.683
+Colombia,Wheat flour - Wholesale,COP,1145.9623333333334,42220940.0,2005,0.696
+Colombia,Wheat flour - Wholesale,COP,1273.1166666666666,42772910.0,2006,0.698
+Colombia,Wheat flour - Wholesale,COP,1520.1666666666667,43306582.0,2007,0.71
+Colombia,Wheat flour - Wholesale,COP,2060.8166666666666,43815313.0,2008,0.716
+Colombia,Wheat flour - Wholesale,COP,1929.8333333333333,44313917.0,2009,0.722
+Colombia,Wheat flour - Wholesale,COP,1710.55,44816108.0,2010,0.726
+Colombia,Wheat flour - Wholesale,COP,1860.0666666666666,45308899.0,2011,0.733
+Colombia,Wheat flour - Wholesale,COP,1536.7825181818182,45782417.0,2012,0.734
+Colombia,Wheat flour - Wholesale,COP,1348.956111111111,46237930.0,2013,0.746
+Colombia,Wheat flour - Wholesale,COP,1297.1180555555557,46677947.0,2014,0.75
+Colombia,Wheat flour - Wholesale,COP,1505.2777777777778,47119728.0,2015,0.754
+Colombia,Wheat flour - Wholesale,COP,1486.4361111111111,47625955.0,2016,0.759
+Colombia,Wheat flour - Wholesale,COP,1475.2805555555556,48351671.0,2017,0.761
+Colombia,Wheat flour - Wholesale,COP,1485.9557142857143,49276961.0,2018,0.763
+Colombia,Wheat flour - Wholesale,COP,1643.1458333333333,50187406.0,2019,0.768
+Colombia,Wheat flour - Wholesale,COP,2245.967765384615,50930662.0,2020,0.756
+Colombia,Yam - Wholesale,COP,1788.79375,50930662.0,2020,0.756
+Egypt,"Beans (fava, dry) - Retail",EGP,6.3007800000000005,87252413.0,2010,0.675
+Egypt,"Beans (fava, dry) - Retail",EGP,8.162541666666668,89200054.0,2011,0.679
+Egypt,"Beans (fava, dry) - Retail",EGP,10.389166666666666,91240376.0,2012,0.688
+Egypt,"Beans (fava, dry) - Retail",EGP,11.061166666666667,93377890.0,2013,0.694
+Egypt,"Beans (fava, dry) - Retail",EGP,10.2675,95592324.0,2014,0.699
+Egypt,"Beans (fava, dry) - Retail",EGP,9.9,97723799.0,2015,0.706
+Egypt,"Beans (fava, dry) - Retail",EGP,14.818181818181818,99784030.0,2016,0.713
+Egypt,"Beans (fava, dry) - Retail",EGP,17.166666666666668,101789386.0,2017,0.721
+Egypt,"Beans (fava, dry) - Retail",EGP,20.250833333333333,103740765.0,2018,0.729
+Egypt,"Beans (fava, dry) - Retail",EGP,28.864166666666666,105618671.0,2019,0.735
+Egypt,"Beans (fava, dry) - Retail",EGP,32.29416666666666,107465134.0,2020,0.734
+Egypt,Cheese - Retail,EGP,16.55,97723799.0,2015,0.706
+Egypt,Cheese - Retail,EGP,17.213636363636365,99784030.0,2016,0.713
+Egypt,Cheese - Retail,EGP,24.479166666666668,101789386.0,2017,0.721
+Egypt,Cheese - Retail,EGP,27.0,103740765.0,2018,0.729
+Egypt,Cheese - Retail,EGP,26.544999999999998,105618671.0,2019,0.735
+Egypt,Cheese - Retail,EGP,27.249166666666667,107465134.0,2020,0.734
+Egypt,Fish (tilapia) - Retail,EGP,22.666666666666668,97723799.0,2015,0.706
+Egypt,Garlic - Retail,EGP,12.4434,87252413.0,2010,0.675
+Egypt,Garlic - Retail,EGP,8.197675,89200054.0,2011,0.679
+Egypt,Garlic - Retail,EGP,6.489166666666667,91240376.0,2012,0.688
+Egypt,Garlic - Retail,EGP,11.379333333333333,93377890.0,2013,0.694
+Egypt,Garlic - Retail,EGP,13.443166666666668,95592324.0,2014,0.699
+Egypt,Garlic - Retail,EGP,11.008181818181818,97723799.0,2015,0.706
+Egypt,Garlic - Retail,EGP,14.274545454545455,99784030.0,2016,0.713
+Egypt,Garlic - Retail,EGP,26.0,101789386.0,2017,0.721
+Egypt,Garlic - Retail,EGP,16.464166666666667,103740765.0,2018,0.729
+Egypt,Garlic - Retail,EGP,16.624166666666667,105618671.0,2019,0.735
+Egypt,Garlic - Retail,EGP,24.174166666666665,107465134.0,2020,0.734
+Egypt,Ghee (artificial) - Retail,EGP,9.97444,87252413.0,2010,0.675
+Egypt,Ghee (artificial) - Retail,EGP,11.849466666666666,89200054.0,2011,0.679
+Egypt,Ghee (artificial) - Retail,EGP,12.139999999999999,91240376.0,2012,0.688
+Egypt,Ghee (artificial) - Retail,EGP,12.714583333333332,93377890.0,2013,0.694
+Egypt,Ghee (artificial) - Retail,EGP,12.577083333333334,95592324.0,2014,0.699
+Egypt,Ghee (artificial) - Retail,EGP,12.5875,97723799.0,2015,0.706
+Egypt,Ghee (natural) - Retail,EGP,34.5135,87252413.0,2010,0.675
+Egypt,Ghee (natural) - Retail,EGP,38.49555,89200054.0,2011,0.679
+Egypt,Ghee (natural) - Retail,EGP,39.92916666666667,91240376.0,2012,0.688
+Egypt,Ghee (natural) - Retail,EGP,41.43208333333333,93377890.0,2013,0.694
+Egypt,Ghee (natural) - Retail,EGP,44.935833333333335,95592324.0,2014,0.699
+Egypt,Ghee (natural) - Retail,EGP,50.808181818181815,97723799.0,2015,0.706
+Egypt,Ghee (natural) - Retail,EGP,66.52090909090909,99784030.0,2016,0.713
+Egypt,Ghee (natural) - Retail,EGP,91.25,101789386.0,2017,0.721
+Egypt,Ghee (natural) - Retail,EGP,96.38416666666667,103740765.0,2018,0.729
+Egypt,Ghee (natural) - Retail,EGP,98.08166666666666,105618671.0,2019,0.735
+Egypt,Ghee (natural) - Retail,EGP,106.81666666666666,107465134.0,2020,0.734
+Egypt,Lentils - Retail,EGP,9.19754,87252413.0,2010,0.675
+Egypt,Lentils - Retail,EGP,10.148983333333334,89200054.0,2011,0.679
+Egypt,Lentils - Retail,EGP,10.59875,91240376.0,2012,0.688
+Egypt,Lentils - Retail,EGP,11.494666666666667,93377890.0,2013,0.694
+Egypt,Lentils - Retail,EGP,11.190416666666666,95592324.0,2014,0.699
+Egypt,Lentils - Retail,EGP,12.886363636363637,97723799.0,2015,0.706
+Egypt,Lentils - Retail,EGP,15.65,99784030.0,2016,0.713
+Egypt,Lentils - Retail,EGP,21.566666666666663,101789386.0,2017,0.721
+Egypt,Lentils - Retail,EGP,20.5,103740765.0,2018,0.729
+Egypt,Lentils - Retail,EGP,19.125833333333333,105618671.0,2019,0.735
+Egypt,Lentils - Retail,EGP,18.525833333333335,107465134.0,2020,0.734
+Egypt,Meat (beef) - Retail,EGP,54.264779999999995,87252413.0,2010,0.675
+Egypt,Meat (beef) - Retail,EGP,55.92988333333333,89200054.0,2011,0.679
+Egypt,Meat (beef) - Retail,EGP,56.5,91240376.0,2012,0.688
+Egypt,Meat (beef) - Retail,EGP,57.785,93377890.0,2013,0.694
+Egypt,Meat (beef) - Retail,EGP,61.2875,95592324.0,2014,0.699
+Egypt,Meat (beef) - Retail,EGP,64.7,97723799.0,2015,0.706
+Egypt,"Meat (beef, without bones) - Retail",EGP,88.40000000000002,97723799.0,2015,0.706
+Egypt,"Meat (beef, without bones) - Retail",EGP,97.96363636363635,99784030.0,2016,0.713
+Egypt,"Meat (beef, without bones) - Retail",EGP,139.33333333333334,101789386.0,2017,0.721
+Egypt,"Meat (beef, without bones) - Retail",EGP,148.31916666666666,103740765.0,2018,0.729
+Egypt,"Meat (beef, without bones) - Retail",EGP,144.30583333333334,105618671.0,2019,0.735
+Egypt,"Meat (beef, without bones) - Retail",EGP,132.93833333333333,107465134.0,2020,0.734
+Egypt,"Meat (chicken, frozen) - Retail",EGP,15.30334,87252413.0,2010,0.675
+Egypt,"Meat (chicken, frozen) - Retail",EGP,13.249391666666668,89200054.0,2011,0.679
+Egypt,"Meat (chicken, frozen) - Retail",EGP,17.5525,91240376.0,2012,0.688
+Egypt,"Meat (chicken, frozen) - Retail",EGP,19.02125,93377890.0,2013,0.694
+Egypt,"Meat (chicken, frozen) - Retail",EGP,18.643333333333334,95592324.0,2014,0.699
+Egypt,"Meat (chicken, frozen) - Retail",EGP,21.345454545454547,97723799.0,2015,0.706
+Egypt,"Meat (chicken, frozen) - Retail",EGP,27.636363636363637,99784030.0,2016,0.713
+Egypt,"Meat (chicken, frozen) - Retail",EGP,32.916666666666664,101789386.0,2017,0.721
+Egypt,"Meat (chicken, frozen) - Retail",EGP,30.58,103740765.0,2018,0.729
+Egypt,"Meat (chicken, frozen) - Retail",EGP,29.304166666666664,105618671.0,2019,0.735
+Egypt,"Meat (chicken, frozen) - Retail",EGP,27.8,107465134.0,2020,0.734
+Egypt,Onions (red) - Retail,EGP,2.13002,87252413.0,2010,0.675
+Egypt,Onions (red) - Retail,EGP,2.4997583333333333,89200054.0,2011,0.679
+Egypt,Onions (red) - Retail,EGP,2.4966666666666666,91240376.0,2012,0.688
+Egypt,Onions (red) - Retail,EGP,3.8312500000000003,93377890.0,2013,0.694
+Egypt,Onions (red) - Retail,EGP,3.4719166666666665,95592324.0,2014,0.699
+Egypt,Onions (red) - Retail,EGP,2.8875,97723799.0,2015,0.706
+Egypt,Onions (red) - Retail,EGP,4.142727272727273,99784030.0,2016,0.713
+Egypt,Onions (red) - Retail,EGP,6.691666666666666,101789386.0,2017,0.721
+Egypt,Onions (red) - Retail,EGP,6.6883333333333335,103740765.0,2018,0.729
+Egypt,Onions (red) - Retail,EGP,7.663333333333334,105618671.0,2019,0.735
+Egypt,Onions (red) - Retail,EGP,6.995,107465134.0,2020,0.734
+Egypt,Onions (white) - Retail,EGP,2.2031,87252413.0,2010,0.675
+Egypt,Onions (white) - Retail,EGP,2.269125,89200054.0,2011,0.679
+Egypt,Onions (white) - Retail,EGP,2.1062499999999997,91240376.0,2012,0.688
+Egypt,Onions (white) - Retail,EGP,3.3833750000000005,93377890.0,2013,0.694
+Egypt,Onions (white) - Retail,EGP,3.0029166666666662,95592324.0,2014,0.699
+Egypt,Onions (white) - Retail,EGP,2.549090909090909,97723799.0,2015,0.706
+Egypt,Pasta - Retail,EGP,4.96716,87252413.0,2010,0.675
+Egypt,Pasta - Retail,EGP,4.436133333333333,89200054.0,2011,0.679
+Egypt,Pasta - Retail,EGP,4.444583333333333,91240376.0,2012,0.688
+Egypt,Pasta - Retail,EGP,4.628916666666666,93377890.0,2013,0.694
+Egypt,Pasta - Retail,EGP,4.37225,95592324.0,2014,0.699
+Egypt,Pasta - Retail,EGP,3.9654545454545453,97723799.0,2015,0.706
+Egypt,Pasta - Retail,EGP,5.135454545454545,99784030.0,2016,0.713
+Egypt,Pasta - Retail,EGP,7.59,101789386.0,2017,0.721
+Egypt,Pasta - Retail,EGP,7.628333333333333,103740765.0,2018,0.729
+Egypt,Pasta - Retail,EGP,8.071666666666667,105618671.0,2019,0.735
+Egypt,Pasta - Retail,EGP,8.200833333333334,107465134.0,2020,0.734
+Egypt,Potatoes - Retail,EGP,1.8508400000000003,87252413.0,2010,0.675
+Egypt,Potatoes - Retail,EGP,2.534266666666667,89200054.0,2011,0.679
+Egypt,Potatoes - Retail,EGP,2.4366666666666665,91240376.0,2012,0.688
+Egypt,Potatoes - Retail,EGP,3.75975,93377890.0,2013,0.694
+Egypt,Potatoes - Retail,EGP,3.484666666666667,95592324.0,2014,0.699
+Egypt,Potatoes - Retail,EGP,3.8681818181818177,97723799.0,2015,0.706
+Egypt,Potatoes - Retail,EGP,5.954545454545454,99784030.0,2016,0.713
+Egypt,Potatoes - Retail,EGP,5.391666666666667,101789386.0,2017,0.721
+Egypt,Potatoes - Retail,EGP,7.020833333333333,103740765.0,2018,0.729
+Egypt,Potatoes - Retail,EGP,8.13,105618671.0,2019,0.735
+Egypt,Potatoes - Retail,EGP,8.7975,107465134.0,2020,0.734
+Egypt,Rice - Retail,EGP,3.91498,87252413.0,2010,0.675
+Egypt,Rice - Retail,EGP,4.528416666666667,89200054.0,2011,0.679
+Egypt,Rice - Retail,EGP,4.344545454545455,91240376.0,2012,0.688
+Egypt,Rice - Retail,EGP,4.37875,93377890.0,2013,0.694
+Egypt,Rice - Retail,EGP,4.169583333333333,95592324.0,2014,0.699
+Egypt,Rice - Retail,EGP,4.475454545454546,97723799.0,2015,0.706
+Egypt,Rice - Retail,EGP,6.292727272727273,99784030.0,2016,0.713
+Egypt,Rice - Retail,EGP,7.529166666666666,101789386.0,2017,0.721
+Egypt,Rice - Retail,EGP,9.6825,103740765.0,2018,0.729
+Egypt,Rice - Retail,EGP,10.546666666666667,105618671.0,2019,0.735
+Egypt,Rice - Retail,EGP,9.785833333333334,107465134.0,2020,0.734
+Egypt,Sugar - Retail,EGP,4.859640000000001,87252413.0,2010,0.675
+Egypt,Sugar - Retail,EGP,5.591183333333333,89200054.0,2011,0.679
+Egypt,Sugar - Retail,EGP,5.5566666666666675,91240376.0,2012,0.688
+Egypt,Sugar - Retail,EGP,5.4325,93377890.0,2013,0.694
+Egypt,Sugar - Retail,EGP,5.6145,95592324.0,2014,0.699
+Egypt,Sugar - Retail,EGP,5.505454545454546,97723799.0,2015,0.706
+Egypt,Sugar - Retail,EGP,8.443636363636363,99784030.0,2016,0.713
+Egypt,Sugar - Retail,EGP,14.041666666666666,101789386.0,2017,0.721
+Egypt,Sugar - Retail,EGP,14.009166666666667,103740765.0,2018,0.729
+Egypt,Sugar - Retail,EGP,14.032499999999999,105618671.0,2019,0.735
+Egypt,Sugar - Retail,EGP,13.985,107465134.0,2020,0.734
+Egypt,Tomatoes - Retail,EGP,3.90162,87252413.0,2010,0.675
+Egypt,Tomatoes - Retail,EGP,2.9216916666666664,89200054.0,2011,0.679
+Egypt,Tomatoes - Retail,EGP,3.1491666666666664,91240376.0,2012,0.688
+Egypt,Tomatoes - Retail,EGP,2.985416666666667,93377890.0,2013,0.694
+Egypt,Tomatoes - Retail,EGP,3.0460833333333333,95592324.0,2014,0.699
+Egypt,Tomatoes - Retail,EGP,4.240909090909091,97723799.0,2015,0.706
+Egypt,Tomatoes - Retail,EGP,4.072727272727272,99784030.0,2016,0.713
+Egypt,Tomatoes - Retail,EGP,5.895833333333333,101789386.0,2017,0.721
+Egypt,Tomatoes - Retail,EGP,5.9375,103740765.0,2018,0.729
+Egypt,Tomatoes - Retail,EGP,6.058333333333334,105618671.0,2019,0.735
+Egypt,Tomatoes - Retail,EGP,7.586666666666666,107465134.0,2020,0.734
+Egypt,Wheat flour - Retail,EGP,3.91278,87252413.0,2010,0.675
+Egypt,Wheat flour - Retail,EGP,4.078241666666667,89200054.0,2011,0.679
+Egypt,Wheat flour - Retail,EGP,4.49,91240376.0,2012,0.688
+Egypt,Wheat flour - Retail,EGP,4.878916666666666,93377890.0,2013,0.694
+Egypt,Wheat flour - Retail,EGP,4.338166666666667,95592324.0,2014,0.699
+Egypt,Wheat flour - Retail,EGP,4.044545454545455,97723799.0,2015,0.706
+Egypt,Wheat flour - Retail,EGP,4.248181818181819,99784030.0,2016,0.713
+Egypt,Wheat flour - Retail,EGP,6.93,101789386.0,2017,0.721
+Egypt,Wheat flour - Retail,EGP,7.050833333333333,103740765.0,2018,0.729
+Egypt,Wheat flour - Retail,EGP,7.480833333333333,105618671.0,2019,0.735
+Egypt,Wheat flour - Retail,EGP,6.640000000000001,107465134.0,2020,0.734
+Indonesia,Chili (bird's eye) - Retail,IDR,13526.3433,234858289.0,2007,0.643
+Indonesia,Chili (bird's eye) - Retail,IDR,19234.833333333332,237936543.0,2008,0.646
+Indonesia,Chili (bird's eye) - Retail,IDR,18681.313599999998,240981299.0,2009,0.657
+Indonesia,Chili (bird's eye) - Retail,IDR,26781.5,244016173.0,2010,0.664
+Indonesia,Chili (bird's eye) - Retail,IDR,27693.166666666668,247099697.0,2011,0.671
+Indonesia,Chili (bird's eye) - Retail,IDR,21549.25,250222695.0,2012,0.678
+Indonesia,Chili (bird's eye) - Retail,IDR,32510.5,253275918.0,2013,0.683
+Indonesia,Chili (bird's eye) - Retail,IDR,35790.583333333336,256229761.0,2014,0.687
+Indonesia,Chili (bird's eye) - Retail,IDR,35986.25,259091970.0,2015,0.695
+Indonesia,Chili (bird's eye) - Retail,IDR,35857.18074416961,261850182.0,2016,0.699
+Indonesia,Chili (bird's eye) - Retail,IDR,71885.00421271677,264498852.0,2017,0.704
+Indonesia,Chili (bird's eye) - Retail,IDR,44328.083333333336,267066843.0,2018,0.71
+Indonesia,Chili (bird's eye) - Retail,IDR,51546.75,269582878.0,2019,0.716
+Indonesia,Chili (bird's eye) - Retail,IDR,34928.7307503213,271857970.0,2020,0.709
+Indonesia,"Chili (bird's eye, green) - Retail",IDR,32562.65018392157,261850182.0,2016,0.699
+Indonesia,"Chili (bird's eye, green) - Retail",IDR,53236.80723178808,264498852.0,2017,0.704
+Indonesia,"Chili (bird's eye, green) - Retail",IDR,30686.20427024259,271857970.0,2020,0.709
+Indonesia,"Chili (bird's eye, red) - Retail",IDR,40055.21070085106,261850182.0,2016,0.699
+Indonesia,"Chili (bird's eye, red) - Retail",IDR,98720.10862428571,264498852.0,2017,0.704
+Indonesia,"Chili (bird's eye, red) - Retail",IDR,39978.633849797574,271857970.0,2020,0.709
+Indonesia,Chili (red) - Retail,IDR,19612.922441666666,234858289.0,2007,0.643
+Indonesia,Chili (red) - Retail,IDR,21912.083333333332,237936543.0,2008,0.646
+Indonesia,Chili (red) - Retail,IDR,21598.424291666666,240981299.0,2009,0.657
+Indonesia,Chili (red) - Retail,IDR,28945.916666666668,244016173.0,2010,0.664
+Indonesia,Chili (red) - Retail,IDR,20308.25,247099697.0,2011,0.671
+Indonesia,Chili (red) - Retail,IDR,21365.75,250222695.0,2012,0.678
+Indonesia,Chili (red) - Retail,IDR,31214.083333333332,253275918.0,2013,0.683
+Indonesia,Chili (red) - Retail,IDR,30462.75,256229761.0,2014,0.687
+Indonesia,Chili (red) - Retail,IDR,30305.75,259091970.0,2015,0.695
+Indonesia,Chili (red) - Retail,IDR,39507.24216525573,261850182.0,2016,0.699
+Indonesia,Chili (red) - Retail,IDR,35843.45011098266,264498852.0,2017,0.704
+Indonesia,Chili (red) - Retail,IDR,41590.416666666664,267066843.0,2018,0.71
+Indonesia,Chili (red) - Retail,IDR,48272.666666666664,269582878.0,2019,0.716
+Indonesia,Chili (red) - Retail,IDR,35016.78907889273,271857970.0,2020,0.709
+Indonesia,"Chili (red, curly) - Retail",IDR,39213.41053376866,261850182.0,2016,0.699
+Indonesia,"Chili (red, curly) - Retail",IDR,38027.1936516129,264498852.0,2017,0.704
+Indonesia,"Chili (red, curly) - Retail",IDR,33754.976649329896,271857970.0,2020,0.709
+Indonesia,"Chili (red, large) - Retail",IDR,38737.45762704402,261850182.0,2016,0.699
+Indonesia,"Chili (red, large) - Retail",IDR,34024.494860839164,264498852.0,2017,0.704
+Indonesia,"Chili (red, large) - Retail",IDR,36735.314830755175,271857970.0,2020,0.709
+Indonesia,Eggs (broiler) - Retail,IDR,21429.302865405403,261850182.0,2016,0.699
+Indonesia,Eggs (broiler) - Retail,IDR,20266.96302839506,264498852.0,2017,0.704
+Indonesia,Eggs (broiler) - Retail,IDR,24654.018122178215,271857970.0,2020,0.709
+Indonesia,Eggs - Retail,IDR,9229.280233333333,234858289.0,2007,0.643
+Indonesia,Eggs - Retail,IDR,12504.0,237936543.0,2008,0.646
+Indonesia,Eggs - Retail,IDR,12760.856975,240981299.0,2009,0.657
+Indonesia,Eggs - Retail,IDR,13242.166666666666,244016173.0,2010,0.664
+Indonesia,Eggs - Retail,IDR,14697.5,247099697.0,2011,0.671
+Indonesia,Eggs - Retail,IDR,15773.083333333334,250222695.0,2012,0.678
+Indonesia,Eggs - Retail,IDR,17347.0,253275918.0,2013,0.683
+Indonesia,Eggs - Retail,IDR,17769.083333333332,256229761.0,2014,0.687
+Indonesia,Eggs - Retail,IDR,19648.416666666668,259091970.0,2015,0.695
+Indonesia,Eggs - Retail,IDR,21407.260160670194,261850182.0,2016,0.699
+Indonesia,Eggs - Retail,IDR,20284.248616184974,264498852.0,2017,0.704
+Indonesia,Eggs - Retail,IDR,22630.833333333332,267066843.0,2018,0.71
+Indonesia,Eggs - Retail,IDR,22907.333333333332,269582878.0,2019,0.716
+Indonesia,Eggs - Retail,IDR,24653.25006979733,271857970.0,2020,0.709
+Indonesia,Garlic (medium) - Retail,IDR,35383.754202162156,261850182.0,2016,0.699
+Indonesia,Garlic (medium) - Retail,IDR,37487.37590123457,264498852.0,2017,0.704
+Indonesia,Garlic (medium) - Retail,IDR,32232.185014653463,271857970.0,2020,0.709
+Indonesia,Garlic - Retail,IDR,35385.042372972974,261850182.0,2016,0.699
+Indonesia,Garlic - Retail,IDR,37487.37590123457,264498852.0,2017,0.704
+Indonesia,Garlic - Retail,IDR,32231.790857178217,271857970.0,2020,0.709
+Indonesia,Meat (beef) - Retail,IDR,49966.92621666667,234858289.0,2007,0.643
+Indonesia,Meat (beef) - Retail,IDR,55832.083333333336,237936543.0,2008,0.646
+Indonesia,Meat (beef) - Retail,IDR,60954.4573,240981299.0,2009,0.657
+Indonesia,Meat (beef) - Retail,IDR,62894.25,244016173.0,2010,0.664
+Indonesia,Meat (beef) - Retail,IDR,65904.41666666667,247099697.0,2011,0.671
+Indonesia,Meat (beef) - Retail,IDR,72708.66666666667,250222695.0,2012,0.678
+Indonesia,Meat (beef) - Retail,IDR,86962.75,253275918.0,2013,0.683
+Indonesia,Meat (beef) - Retail,IDR,93043.83333333333,256229761.0,2014,0.687
+Indonesia,Meat (beef) - Retail,IDR,98460.0,259091970.0,2015,0.695
+Indonesia,Meat (beef) - Retail,IDR,114700.4829174812,261850182.0,2016,0.699
+Indonesia,Meat (beef) - Retail,IDR,113403.77160314466,264498852.0,2017,0.704
+Indonesia,Meat (beef) - Retail,IDR,107236.58333333333,267066843.0,2018,0.71
+Indonesia,Meat (beef) - Retail,IDR,108382.83333333333,269582878.0,2019,0.716
+Indonesia,Meat (beef) - Retail,IDR,117415.57533964593,271857970.0,2020,0.709
+Indonesia,"Meat (beef, first quality) - Retail",IDR,118718.59737942308,261850182.0,2016,0.699
+Indonesia,"Meat (beef, first quality) - Retail",IDR,117735.60945743244,264498852.0,2017,0.704
+Indonesia,"Meat (beef, first quality) - Retail",IDR,121730.24169330092,271857970.0,2020,0.709
+Indonesia,"Meat (beef, second quality) - Retail",IDR,109876.50362065218,261850182.0,2016,0.699
+Indonesia,"Meat (beef, second quality) - Retail",IDR,109115.76595681818,264498852.0,2017,0.704
+Indonesia,"Meat (beef, second quality) - Retail",IDR,112334.51894347306,271857970.0,2020,0.709
+Indonesia,Meat (chicken) - Retail,IDR,31852.179969675093,261850182.0,2016,0.699
+Indonesia,Meat (chicken) - Retail,IDR,30197.651448750003,264498852.0,2017,0.704
+Indonesia,Meat (chicken) - Retail,IDR,32282.543758140702,271857970.0,2020,0.709
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,22987.733241666665,234858289.0,2007,0.643
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,28948.666666666668,237936543.0,2008,0.646
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,30499.22945833333,240981299.0,2009,0.657
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,27813.333333333332,244016173.0,2010,0.664
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,28639.416666666668,247099697.0,2011,0.671
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,30198.666666666668,250222695.0,2012,0.678
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,33458.083333333336,253275918.0,2013,0.683
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,34632.583333333336,256229761.0,2014,0.687
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,36866.416666666664,259091970.0,2015,0.695
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,31994.245229858654,261850182.0,2016,0.699
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,30752.451647953218,264498852.0,2017,0.704
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,43710.166666666664,267066843.0,2018,0.71
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,43241.75,269582878.0,2019,0.716
+Indonesia,"Meat (chicken, broiler) - Retail",IDR,32277.60742368289,271857970.0,2020,0.709
+Indonesia,Oil (vegetable) - Retail,IDR,13313.861939279279,261850182.0,2016,0.699
+Indonesia,Oil (vegetable) - Retail,IDR,13854.86253765432,264498852.0,2017,0.704
+Indonesia,Oil (vegetable) - Retail,IDR,13490.58235970297,271857970.0,2020,0.709
+Indonesia,"Oil (vegetable, bulk) - Retail",IDR,11927.243157438796,261850182.0,2016,0.699
+Indonesia,"Oil (vegetable, bulk) - Retail",IDR,12495.142482894737,264498852.0,2017,0.704
+Indonesia,"Oil (vegetable, bulk) - Retail",IDR,12208.968135136582,271857970.0,2020,0.709
+Indonesia,"Oil (vegetable, packaged) - Retail",IDR,13921.506485045045,261850182.0,2016,0.699
+Indonesia,"Oil (vegetable, packaged) - Retail",IDR,14428.192785185183,264498852.0,2017,0.704
+Indonesia,"Oil (vegetable, packaged) - Retail",IDR,14031.923288712871,271857970.0,2020,0.709
+Indonesia,Onions (shallot) - Retail,IDR,39063.47200648648,261850182.0,2016,0.699
+Indonesia,Onions (shallot) - Retail,IDR,36698.064350617286,264498852.0,2017,0.704
+Indonesia,Onions (shallot) - Retail,IDR,38317.716679059406,271857970.0,2020,0.709
+Indonesia,"Onions (shallot, medium) - Retail",IDR,39063.47200648648,261850182.0,2016,0.699
+Indonesia,"Onions (shallot, medium) - Retail",IDR,36698.064350617286,264498852.0,2017,0.704
+Indonesia,"Onions (shallot, medium) - Retail",IDR,38316.75411678218,271857970.0,2020,0.709
+Indonesia,Rice (high quality) - Retail,IDR,12125.629995933457,261850182.0,2016,0.699
+Indonesia,Rice (high quality) - Retail,IDR,12148.9046175,264498852.0,2017,0.704
+Indonesia,Rice (high quality) - Retail,IDR,12685.9671104,271857970.0,2020,0.709
+Indonesia,Rice (low quality) - Retail,IDR,9584.712631643002,261850182.0,2016,0.699
+Indonesia,Rice (low quality) - Retail,IDR,9625.386118181817,264498852.0,2017,0.704
+Indonesia,Rice (low quality) - Retail,IDR,10407.317847201808,271857970.0,2020,0.709
+Indonesia,Rice (medium quality) - Retail,IDR,11019.019175317604,261850182.0,2016,0.699
+Indonesia,Rice (medium quality) - Retail,IDR,10983.682288050315,264498852.0,2017,0.704
+Indonesia,Rice (medium quality) - Retail,IDR,11555.983629296483,271857970.0,2020,0.709
+Indonesia,Rice - Retail,IDR,6065.581266666667,234858289.0,2007,0.643
+Indonesia,Rice - Retail,IDR,6368.5,237936543.0,2008,0.646
+Indonesia,Rice - Retail,IDR,6691.2295,240981299.0,2009,0.657
+Indonesia,Rice - Retail,IDR,8016.357816666667,244016173.0,2010,0.664
+Indonesia,Rice - Retail,IDR,9297.75,247099697.0,2011,0.671
+Indonesia,Rice - Retail,IDR,10425.833333333334,250222695.0,2012,0.678
+Indonesia,Rice - Retail,IDR,10854.166666666666,253275918.0,2013,0.683
+Indonesia,Rice - Retail,IDR,11461.25,256229761.0,2014,0.687
+Indonesia,Rice - Retail,IDR,12764.583333333334,259091970.0,2015,0.695
+Indonesia,Rice - Retail,IDR,10997.523328042327,261850182.0,2016,0.699
+Indonesia,Rice - Retail,IDR,11091.243264161849,264498852.0,2017,0.704
+Indonesia,Rice - Retail,IDR,14079.5,267066843.0,2018,0.71
+Indonesia,Rice - Retail,IDR,14048.5,269582878.0,2019,0.716
+Indonesia,Rice - Retail,IDR,11588.128145328721,271857970.0,2020,0.709
+Indonesia,Sugar (local) - Retail,IDR,15157.486874228674,261850182.0,2016,0.699
+Indonesia,Sugar (local) - Retail,IDR,13585.77743765432,264498852.0,2017,0.704
+Indonesia,Sugar (local) - Retail,IDR,14924.733694345237,271857970.0,2020,0.709
+Indonesia,Sugar (premium) - Retail,IDR,17348.58700596154,261850182.0,2016,0.699
+Indonesia,Sugar (premium) - Retail,IDR,16657.355913333333,264498852.0,2017,0.704
+Indonesia,Sugar (premium) - Retail,IDR,16276.536777887983,271857970.0,2020,0.709
+Indonesia,Sugar - Retail,IDR,6568.395841666667,234858289.0,2007,0.643
+Indonesia,Sugar - Retail,IDR,6536.833333333333,237936543.0,2008,0.646
+Indonesia,Sugar - Retail,IDR,8573.354033333333,240981299.0,2009,0.657
+Indonesia,Sugar - Retail,IDR,10856.333333333334,244016173.0,2010,0.664
+Indonesia,Sugar - Retail,IDR,10816.25,247099697.0,2011,0.671
+Indonesia,Sugar - Retail,IDR,11961.416666666666,250222695.0,2012,0.678
+Indonesia,Sugar - Retail,IDR,12541.0,253275918.0,2013,0.683
+Indonesia,Sugar - Retail,IDR,11782.583333333334,256229761.0,2014,0.687
+Indonesia,Sugar - Retail,IDR,12595.75,259091970.0,2015,0.695
+Indonesia,Sugar - Retail,IDR,16159.000200176368,261850182.0,2016,0.699
+Indonesia,Sugar - Retail,IDR,14914.168651445088,264498852.0,2017,0.704
+Indonesia,Sugar - Retail,IDR,12392.583333333334,267066843.0,2018,0.71
+Indonesia,Sugar - Retail,IDR,12417.75,269582878.0,2019,0.716
+Indonesia,Sugar - Retail,IDR,15463.844549232294,271857970.0,2020,0.709
+Indonesia,Wheat flour - Retail,IDR,4782.104933333333,234858289.0,2007,0.643
+Indonesia,Wheat flour - Retail,IDR,7089.75,237936543.0,2008,0.646
+Indonesia,Wheat flour - Retail,IDR,7379.287033333334,240981299.0,2009,0.657
+Indonesia,Wheat flour - Retail,IDR,7216.25,244016173.0,2010,0.664
+Indonesia,Wheat flour - Retail,IDR,7235.5,247099697.0,2011,0.671
+Indonesia,Wheat flour - Retail,IDR,7372.25,250222695.0,2012,0.678
+Indonesia,Wheat flour - Retail,IDR,7441.75,253275918.0,2013,0.683
+Indonesia,Wheat flour - Retail,IDR,7780.833333333333,256229761.0,2014,0.687
+Indonesia,Wheat flour - Retail,IDR,7895.916666666667,259091970.0,2015,0.695
+Indonesia,Wheat flour - Retail,IDR,8016.25,261850182.0,2016,0.699
+Indonesia,Wheat flour - Retail,IDR,8068.727272727273,264498852.0,2017,0.704
+Indonesia,Wheat flour - Retail,IDR,8260.416666666666,267066843.0,2018,0.71
+Indonesia,Wheat flour - Retail,IDR,8392.75,269582878.0,2019,0.716
+Indonesia,Wheat flour - Retail,IDR,8487.333333333334,271857970.0,2020,0.709
+Iraq,Beans (white) - Retail,IQD,2308.3274159763314,39621162.0,2017,0.685
+Iraq,Beans (white) - Retail,IQD,2049.350824074074,40590700.0,2018,0.692
+Iraq,Beans (white) - Retail,IQD,2063.7840666666666,41563520.0,2019,0.696
+Iraq,Beans (white) - Retail,IQD,2304.3569179245283,42556984.0,2020,0.679
+Iraq,Bread (khoboz) - Retail,IQD,100.0,40590700.0,2018,0.692
+Iraq,Bulgur - Retail,IQD,1309.5314822222222,42556984.0,2020,0.679
+Iraq,Cheese (local) - Retail,IQD,5982.371794674556,39621162.0,2017,0.685
+Iraq,Cheese (local) - Retail,IQD,5545.141974691358,40590700.0,2018,0.692
+Iraq,Cheese (local) - Retail,IQD,4916.7714880503145,41563520.0,2019,0.696
+Iraq,Cheese (local) - Retail,IQD,5494.162735849057,42556984.0,2020,0.679
+Iraq,Chickpeas - Retail,IQD,2278.490741111111,42556984.0,2020,0.679
+Iraq,Dates - Retail,IQD,2308.157464417178,39621162.0,2017,0.685
+Iraq,Dates - Retail,IQD,1894.1807357142857,40590700.0,2018,0.692
+Iraq,Dates - Retail,IQD,1800.3472217948718,41563520.0,2019,0.696
+Iraq,Dates - Retail,IQD,1884.453616509434,42556984.0,2020,0.679
+Iraq,Fish - Retail,IQD,5084.689349704142,39621162.0,2017,0.685
+Iraq,Fish - Retail,IQD,3996.636832716049,40590700.0,2018,0.692
+Iraq,Fish - Retail,IQD,4374.318657861635,41563520.0,2019,0.696
+Iraq,Fish - Retail,IQD,4368.091588207547,42556984.0,2020,0.679
+Iraq,Handwash soap - Retail,IQD,2218.649073888889,42556984.0,2020,0.679
+Iraq,Lentils - Retail,IQD,2042.7470408284023,39621162.0,2017,0.685
+Iraq,Lentils - Retail,IQD,1740.6702018181818,40590700.0,2018,0.692
+Iraq,Lentils - Retail,IQD,1533.0267295597484,41563520.0,2019,0.696
+Iraq,Lentils - Retail,IQD,1593.0837259433963,42556984.0,2020,0.679
+Iraq,Meat (beef) - Retail,IQD,13036.143984615384,39621162.0,2017,0.685
+Iraq,Meat (beef) - Retail,IQD,12533.58585818182,40590700.0,2018,0.692
+Iraq,Meat (beef) - Retail,IQD,11984.276729559748,41563520.0,2019,0.696
+Iraq,Meat (beef) - Retail,IQD,11990.919810849058,42556984.0,2020,0.679
+Iraq,Meat (chicken) - Retail,IQD,3893.796843786982,39621162.0,2017,0.685
+Iraq,Meat (chicken) - Retail,IQD,3657.159465432099,40590700.0,2018,0.692
+Iraq,Meat (chicken) - Retail,IQD,3318.9989515723273,41563520.0,2019,0.696
+Iraq,Meat (chicken) - Retail,IQD,3356.4154084905663,42556984.0,2020,0.679
+Iraq,Meat (lamb) - Retail,IQD,13737.407407777777,42556984.0,2020,0.679
+Iraq,Milk (powder) - Retail,IQD,6556.750493491124,39621162.0,2017,0.685
+Iraq,Milk (powder) - Retail,IQD,5148.088477160494,40590700.0,2018,0.692
+Iraq,Milk (powder) - Retail,IQD,5290.120544654088,41563520.0,2019,0.696
+Iraq,Milk (powder) - Retail,IQD,5739.9862419811325,42556984.0,2020,0.679
+Iraq,Onions - Retail,IQD,761.0192599999999,42556984.0,2020,0.679
+Iraq,Potatoes - Retail,IQD,821.9344183431953,39621162.0,2017,0.685
+Iraq,Potatoes - Retail,IQD,791.5349790123456,40590700.0,2018,0.692
+Iraq,Potatoes - Retail,IQD,862.9297691823899,41563520.0,2019,0.696
+Iraq,Potatoes - Retail,IQD,718.8091193396227,42556984.0,2020,0.679
+Iraq,Rice - Retail,IQD,1657.3674165644172,33864447.0,2012,0.66
+Iraq,Rice - Retail,IQD,1773.5898876404494,35481800.0,2013,0.667
+Iraq,Rice - Retail,IQD,1878.1391304347826,36746488.0,2014,0.67
+Iraq,Rice - Retail,IQD,1928.8431372549019,37757813.0,2015,0.675
+Iraq,Rice - Retail,IQD,1980.6899441340781,38697943.0,2016,0.679
+Iraq,Rice - Retail,IQD,1689.6311639053254,39621162.0,2017,0.685
+Iraq,Rice - Retail,IQD,1709.3191921212122,40590700.0,2018,0.692
+Iraq,Rice - Retail,IQD,1693.946540880503,41563520.0,2019,0.696
+Iraq,Rice - Retail,IQD,1642.555425,42556984.0,2020,0.679
+Iraq,Salt (iodised) - Retail,IQD,612.7810650887574,39621162.0,2017,0.685
+Iraq,Salt (iodised) - Retail,IQD,789.8612838509317,40590700.0,2018,0.692
+Iraq,Salt (iodised) - Retail,IQD,853.7458075471699,41563520.0,2019,0.696
+Iraq,Salt (iodised) - Retail,IQD,800.2551099056603,42556984.0,2020,0.679
+Iraq,Sugar - Retail,IQD,1366.132075471698,33864447.0,2012,0.66
+Iraq,Sugar - Retail,IQD,1380.3595505617977,35481800.0,2013,0.667
+Iraq,Sugar - Retail,IQD,1326.2695652173913,36746488.0,2014,0.67
+Iraq,Sugar - Retail,IQD,1078.1078431372548,37757813.0,2015,0.675
+Iraq,Sugar - Retail,IQD,1164.31843575419,38697943.0,2016,0.679
+Iraq,Sugar - Retail,IQD,1101.9260355029585,39621162.0,2017,0.685
+Iraq,Sugar - Retail,IQD,1089.89596,40590700.0,2018,0.692
+Iraq,Sugar - Retail,IQD,983.2285113207547,41563520.0,2019,0.696
+Iraq,Sugar - Retail,IQD,974.017295754717,42556984.0,2020,0.679
+Iraq,Tea - Retail,IQD,5706.139053254438,39621162.0,2017,0.685
+Iraq,Tea - Retail,IQD,5821.122427777778,40590700.0,2018,0.692
+Iraq,Tea - Retail,IQD,6230.149371069182,41563520.0,2019,0.696
+Iraq,Tea - Retail,IQD,6318.180031132076,42556984.0,2020,0.679
+Iraq,Tomatoes - Retail,IQD,848.7460556213018,39621162.0,2017,0.685
+Iraq,Tomatoes - Retail,IQD,891.4994858024692,40590700.0,2018,0.692
+Iraq,Tomatoes - Retail,IQD,951.2877358490566,41563520.0,2019,0.696
+Iraq,Tomatoes - Retail,IQD,734.3498816037736,42556984.0,2020,0.679
+Iraq,Wheat flour - Retail,IQD,481.48364049079754,33864447.0,2012,0.66
+Iraq,Wheat flour - Retail,IQD,471.94943820224717,35481800.0,2013,0.667
+Iraq,Wheat flour - Retail,IQD,506.7130434782609,36746488.0,2014,0.67
+Iraq,Wheat flour - Retail,IQD,906.343137254902,37757813.0,2015,0.675
+Iraq,Wheat flour - Retail,IQD,1010.3826815642458,38697943.0,2016,0.679
+Iraq,Wheat flour - Retail,IQD,991.0009863905326,39621162.0,2017,0.685
+Iraq,Wheat flour - Retail,IQD,1000.6777775757575,40590700.0,2018,0.692
+Iraq,Wheat flour - Retail,IQD,779.9842767295597,41563520.0,2019,0.696
+Iraq,Wheat flour - Retail,IQD,853.0780264150943,42556984.0,2020,0.679
+Lebanon,Beans (white) - Retail,LBP,2901.578393939394,5178337.0,2012,0.762
+Lebanon,Beans (white) - Retail,LBP,3692.952789349112,5678851.0,2013,0.759
+Lebanon,Beans (white) - Retail,LBP,4751.106777927927,6274342.0,2014,0.75
+Lebanon,Beans (white) - Retail,LBP,3965.290847511312,6398940.0,2015,0.746
+Lebanon,Beans (white) - Retail,LBP,3278.9248686868686,6258619.0,2016,0.743
+Lebanon,Beans (white) - Retail,LBP,3271.3867595818815,6109252.0,2017,0.75
+Lebanon,Beans (white) - Retail,LBP,3119.567474048443,5950839.0,2018,0.75
+Lebanon,Beans (white) - Retail,LBP,3406.742160278746,5781907.0,2019,0.745
+Lebanon,Beans (white) - Retail,LBP,7157.693950177936,5662923.0,2020,0.726
+Lebanon,Bread (pita) - Retail,LBP,1716.0582272727272,5178337.0,2012,0.762
+Lebanon,Bread (pita) - Retail,LBP,1715.7786547619048,5678851.0,2013,0.759
+Lebanon,Bread (pita) - Retail,LBP,1618.3536736607143,6274342.0,2014,0.75
+Lebanon,Bread (pita) - Retail,LBP,1523.9933264705883,6398940.0,2015,0.746
+Lebanon,Bread (pita) - Retail,LBP,1507.65373,6258619.0,2016,0.743
+Lebanon,Bread (pita) - Retail,LBP,1470.5217391304348,6109252.0,2017,0.75
+Lebanon,Bread (pita) - Retail,LBP,1468.1496350364964,5950839.0,2018,0.75
+Lebanon,Bread (pita) - Retail,LBP,1476.7262773722628,5781907.0,2019,0.745
+Lebanon,Bread (pita) - Retail,LBP,1730.5587044534414,5662923.0,2020,0.726
+Lebanon,Bulgur (brown) - Retail,LBP,1674.1253424242423,5178337.0,2012,0.762
+Lebanon,Bulgur (brown) - Retail,LBP,1781.9112579881657,5678851.0,2013,0.759
+Lebanon,Bulgur (brown) - Retail,LBP,1789.3096848214286,6274342.0,2014,0.75
+Lebanon,Bulgur (brown) - Retail,LBP,1754.480074774775,6398940.0,2015,0.746
+Lebanon,Bulgur (brown) - Retail,LBP,1695.6266915,6258619.0,2016,0.743
+Lebanon,Bulgur (brown) - Retail,LBP,1674.0237288135593,6109252.0,2017,0.75
+Lebanon,Bulgur (brown) - Retail,LBP,1609.0033898305085,5950839.0,2018,0.75
+Lebanon,Bulgur (brown) - Retail,LBP,1615.3355481727574,5781907.0,2019,0.745
+Lebanon,Bulgur (brown) - Retail,LBP,4324.8243727598565,5662923.0,2020,0.726
+Lebanon,Cabbage - Retail,LBP,836.0014027027026,5678851.0,2013,0.759
+Lebanon,Cabbage - Retail,LBP,903.5267489130435,6274342.0,2014,0.75
+Lebanon,Cabbage - Retail,LBP,828.9029165714286,6398940.0,2015,0.746
+Lebanon,Cabbage - Retail,LBP,842.4208062068966,6258619.0,2016,0.743
+Lebanon,Cabbage - Retail,LBP,851.5841584158416,6109252.0,2017,0.75
+Lebanon,Cabbage - Retail,LBP,770.7283950617284,5950839.0,2018,0.75
+Lebanon,Cabbage - Retail,LBP,769.0441176470588,5781907.0,2019,0.745
+Lebanon,Cabbage - Retail,LBP,1290.5483870967741,5662923.0,2020,0.726
+Lebanon,Chickpeas - Retail,LBP,2828.9815592760183,6398940.0,2015,0.746
+Lebanon,Chickpeas - Retail,LBP,3108.8670736040613,6258619.0,2016,0.743
+Lebanon,Chickpeas - Retail,LBP,3779.3726235741447,6109252.0,2017,0.75
+Lebanon,Chickpeas - Retail,LBP,3756.3805970149256,5950839.0,2018,0.75
+Lebanon,Chickpeas - Retail,LBP,3096.614503816794,5781907.0,2019,0.745
+Lebanon,Chickpeas - Retail,LBP,5048.178707224334,5662923.0,2020,0.726
+Lebanon,Cucumbers (greenhouse) - Retail,LBP,1418.6768405555556,6398940.0,2015,0.746
+Lebanon,Cucumbers (greenhouse) - Retail,LBP,1453.878662585034,6258619.0,2016,0.743
+Lebanon,Cucumbers (greenhouse) - Retail,LBP,1453.9516129032259,6109252.0,2017,0.75
+Lebanon,Cucumbers (greenhouse) - Retail,LBP,1323.5081967213114,5950839.0,2018,0.75
+Lebanon,Cucumbers (greenhouse) - Retail,LBP,1299.4903846153845,5781907.0,2019,0.745
+Lebanon,Cucumbers (greenhouse) - Retail,LBP,1688.3932584269662,5662923.0,2020,0.726
+Lebanon,Lentils (brown) - Retail,LBP,2423.2667653061226,5678851.0,2013,0.759
+Lebanon,Lentils (brown) - Retail,LBP,2438.2270295964126,6274342.0,2014,0.75
+Lebanon,Lentils (brown) - Retail,LBP,2774.0387527027024,6398940.0,2015,0.746
+Lebanon,Lentils (brown) - Retail,LBP,2951.1101155,6258619.0,2016,0.743
+Lebanon,Lentils (brown) - Retail,LBP,2933.696,6109252.0,2017,0.75
+Lebanon,Lentils (brown) - Retail,LBP,2705.3715596330276,5950839.0,2018,0.75
+Lebanon,Lentils (green) - Retail,LBP,3245.633962264151,6109252.0,2017,0.75
+Lebanon,Lentils (green) - Retail,LBP,2870.154109589041,5950839.0,2018,0.75
+Lebanon,Lentils (green) - Retail,LBP,2472.08843537415,5781907.0,2019,0.745
+Lebanon,Lentils (green) - Retail,LBP,4985.067164179104,5662923.0,2020,0.726
+Lebanon,Lentils (red) - Retail,LBP,3001.400722021661,6109252.0,2017,0.75
+Lebanon,Lentils (red) - Retail,LBP,2648.574912891986,5950839.0,2018,0.75
+Lebanon,Lentils (red) - Retail,LBP,2355.148275862069,5781907.0,2019,0.745
+Lebanon,Lentils (red) - Retail,LBP,5045.575091575091,5662923.0,2020,0.726
+Lebanon,"Meat (chicken, whole, frozen) - Retail",LBP,5419.89996313364,6398940.0,2015,0.746
+Lebanon,"Meat (chicken, whole, frozen) - Retail",LBP,5047.1693572916665,6258619.0,2016,0.743
+Lebanon,"Meat (chicken, whole, frozen) - Retail",LBP,5492.946153846154,6109252.0,2017,0.75
+Lebanon,"Meat (chicken, whole, frozen) - Retail",LBP,5534.32967032967,5950839.0,2018,0.75
+Lebanon,"Meat (chicken, whole, frozen) - Retail",LBP,5699.762886597938,5781907.0,2019,0.745
+Lebanon,"Meat (chicken, whole, frozen) - Retail",LBP,7811.95652173913,5662923.0,2020,0.726
+Lebanon,Pasta (spaghetti) - Retail,LBP,268.8066090909091,5178337.0,2012,0.762
+Lebanon,Pasta (spaghetti) - Retail,LBP,1863.6885224852072,5678851.0,2013,0.759
+Lebanon,Pasta (spaghetti) - Retail,LBP,2453.015544642857,6274342.0,2014,0.75
+Lebanon,Pasta (spaghetti) - Retail,LBP,2270.258863063063,6398940.0,2015,0.746
+Lebanon,Pasta (spaghetti) - Retail,LBP,2252.9302723618093,6258619.0,2016,0.743
+Lebanon,Pasta (spaghetti) - Retail,LBP,1439.8304498269897,6109252.0,2017,0.75
+Lebanon,Pasta (spaghetti) - Retail,LBP,1528.5308219178082,5950839.0,2018,0.75
+Lebanon,Pasta (spaghetti) - Retail,LBP,1212.8072727272727,5781907.0,2019,0.745
+Lebanon,Pasta (spaghetti) - Retail,LBP,2647.192727272727,5662923.0,2020,0.726
+Lebanon,"Rice (imported, Egyptian) - Retail",LBP,1814.5789151515153,5178337.0,2012,0.762
+Lebanon,"Rice (imported, Egyptian) - Retail",LBP,1887.7939343195264,5678851.0,2013,0.759
+Lebanon,"Rice (imported, Egyptian) - Retail",LBP,2032.2759933035716,6274342.0,2014,0.75
+Lebanon,"Rice (imported, Egyptian) - Retail",LBP,1867.0738977477477,6398940.0,2015,0.746
+Lebanon,"Rice (imported, Egyptian) - Retail",LBP,1754.5790527638192,6258619.0,2016,0.743
+Lebanon,"Rice (imported, Egyptian) - Retail",LBP,1915.5069444444443,6109252.0,2017,0.75
+Lebanon,"Rice (imported, Egyptian) - Retail",LBP,1913.2260273972602,5950839.0,2018,0.75
+Lebanon,"Rice (imported, Egyptian) - Retail",LBP,1927.613559322034,5781907.0,2019,0.745
+Lebanon,"Rice (imported, Egyptian) - Retail",LBP,3733.505415162455,5662923.0,2020,0.726
+Lebanon,Salt - Retail,LBP,560.7801875,5678851.0,2013,0.759
+Lebanon,Salt - Retail,LBP,536.7371290178571,6274342.0,2014,0.75
+Lebanon,Salt - Retail,LBP,548.3551175675676,6398940.0,2015,0.746
+Lebanon,Salt - Retail,LBP,566.730189,6258619.0,2016,0.743
+Lebanon,Salt - Retail,LBP,741.3811320754717,6109252.0,2017,0.75
+Lebanon,Salt - Retail,LBP,669.6472727272727,5950839.0,2018,0.75
+Lebanon,Salt - Retail,LBP,656.9285714285714,5781907.0,2019,0.745
+Lebanon,Salt - Retail,LBP,1325.1146953405018,5662923.0,2020,0.726
+Lebanon,Spinach - Retail,LBP,1563.3597759615384,6398940.0,2015,0.746
+Lebanon,Spinach - Retail,LBP,1505.5357153061225,6258619.0,2016,0.743
+Lebanon,Sugar (white) - Retail,LBP,1533.0460636363637,5178337.0,2012,0.762
+Lebanon,Sugar (white) - Retail,LBP,1498.3234609467456,5678851.0,2013,0.759
+Lebanon,Sugar (white) - Retail,LBP,1297.4200870535715,6274342.0,2014,0.75
+Lebanon,Sugar (white) - Retail,LBP,1001.48589009009,6398940.0,2015,0.746
+Lebanon,Sugar (white) - Retail,LBP,1091.7598090452261,6258619.0,2016,0.743
+Lebanon,Sugar (white) - Retail,LBP,1358.2293906810037,6109252.0,2017,0.75
+Lebanon,Sugar (white) - Retail,LBP,1210.3216783216783,5950839.0,2018,0.75
+Lebanon,Sugar (white) - Retail,LBP,1206.1103448275862,5781907.0,2019,0.745
+Lebanon,Sugar (white) - Retail,LBP,2812.846153846154,5662923.0,2020,0.726
+Lebanon,Wheat flour - Retail,LBP,1273.1417371040725,6398940.0,2015,0.746
+Lebanon,Wheat flour - Retail,LBP,1226.1422201058201,6258619.0,2016,0.743
+Lebanon,Wheat flour - Retail,LBP,1528.7272727272727,6109252.0,2017,0.75
+Lebanon,Wheat flour - Retail,LBP,1487.0341296928327,5950839.0,2018,0.75
+Lebanon,Wheat flour - Retail,LBP,1492.579661016949,5781907.0,2019,0.745
+Lebanon,Wheat flour - Retail,LBP,2285.7122302158273,5662923.0,2020,0.726
+Nepal,Apples - Retail,NPR,185.11904761904762,28832496.0,2019,0.611
+Nepal,Apples - Retail,NPR,222.67293157894736,29348627.0,2020,0.604
+Nepal,Beans (black) - Retail,NPR,136.43636363636364,28832496.0,2019,0.611
+Nepal,Beans (black) - Retail,NPR,155.21438423236512,29348627.0,2020,0.604
+Nepal,Cabbage - Retail,NPR,53.122727272727275,28832496.0,2019,0.611
+Nepal,Cabbage - Retail,NPR,51.152989312977105,29348627.0,2020,0.604
+Nepal,Carrots - Retail,NPR,82.94021739130434,28832496.0,2019,0.611
+Nepal,Carrots - Retail,NPR,87.99328859060402,29348627.0,2020,0.604
+Nepal,Chickpeas - Retail,NPR,125.54708520179372,28832496.0,2019,0.611
+Nepal,Chickpeas - Retail,NPR,125.64911331058019,29348627.0,2020,0.604
+Nepal,Fish - Retail,NPR,422.37113402061857,28832496.0,2019,0.611
+Nepal,Fish - Retail,NPR,452.3361104166667,29348627.0,2020,0.604
+Nepal,Lentils (broken) - Retail,NPR,125.68,28832496.0,2019,0.611
+Nepal,Lentils (broken) - Retail,NPR,135.2289425170068,29348627.0,2020,0.604
+Nepal,Meat (chicken) - Retail,NPR,380.4888888888889,28832496.0,2019,0.611
+Nepal,Meat (chicken) - Retail,NPR,378.103636,29348627.0,2020,0.604
+Nepal,Oranges - Retail,NPR,133.9189189189189,28832496.0,2019,0.611
+Nepal,Oranges - Retail,NPR,129.00277722222222,29348627.0,2020,0.604
+Nepal,Peanut - Retail,NPR,185.49720670391062,28832496.0,2019,0.611
+Nepal,Peanut - Retail,NPR,199.4255319148936,29348627.0,2020,0.604
+Nepal,Potatoes (red) - Retail,NPR,43.495098039215684,28832496.0,2019,0.611
+Nepal,Potatoes (red) - Retail,NPR,57.22407222222222,29348627.0,2020,0.604
+Nepal,Pumpkin - Retail,NPR,52.50251256281407,28832496.0,2019,0.611
+Nepal,Pumpkin - Retail,NPR,52.777285398230084,29348627.0,2020,0.604
+Nepal,Rice (coarse) - Retail,NPR,17.39,24956071.0,2001,0.469
+Nepal,Rice (coarse) - Retail,NPR,16.949917355371902,25332178.0,2002,0.476
+Nepal,Rice (coarse) - Retail,NPR,17.528991596638654,25682908.0,2003,0.482
+Nepal,Rice (coarse) - Retail,NPR,18.499662162162164,26003965.0,2004,0.489
+Nepal,Rice (coarse) - Retail,NPR,20.36299145299145,26285110.0,2005,0.495
+Nepal,Rice (coarse) - Retail,NPR,22.270694298245612,26518971.0,2006,0.505
+Nepal,Rice (coarse) - Retail,NPR,24.02691017964072,26713655.0,2007,0.509
+Nepal,Rice (coarse) - Retail,NPR,28.848078333333333,26881544.0,2008,0.518
+Nepal,Rice (coarse) - Retail,NPR,30.419274809160306,27026941.0,2009,0.53
+Nepal,Rice (coarse) - Retail,NPR,33.41780303030303,27161567.0,2010,0.543
+Nepal,Rice (coarse) - Retail,NPR,34.71969230769231,27266399.0,2011,0.553
+Nepal,Rice (coarse) - Retail,NPR,34.031015625,27330694.0,2012,0.561
+Nepal,Rice (coarse) - Retail,NPR,39.115234375,27381555.0,2013,0.57
+Nepal,Rice (coarse) - Retail,NPR,41.70661157024794,27462106.0,2014,0.576
+Nepal,Rice (coarse) - Retail,NPR,42.62460317460317,27610325.0,2015,0.579
+Nepal,Rice (coarse) - Retail,NPR,43.674393939393944,27861186.0,2016,0.586
+Nepal,Rice (coarse) - Retail,NPR,43.70681818181818,28183426.0,2017,0.594
+Nepal,Rice (coarse) - Retail,NPR,46.333333333333336,28506712.0,2018,0.601
+Nepal,Rice (coarse) - Retail,NPR,48.901408450704224,28832496.0,2019,0.611
+Nepal,Rice (coarse) - Retail,NPR,51.21648514492754,29348627.0,2020,0.604
+Nepal,Rice (medium grain) - Retail,NPR,81.41333333333333,28832496.0,2019,0.611
+Nepal,Rice (medium grain) - Retail,NPR,69.14412354948806,29348627.0,2020,0.604
+Nepal,Tomatoes - Retail,NPR,96.98222222222222,28832496.0,2019,0.611
+Nepal,Tomatoes - Retail,NPR,87.1220010791367,29348627.0,2020,0.604
+Nepal,Wheat flour - Retail,NPR,17.971888888888888,24956071.0,2001,0.469
+Nepal,Wheat flour - Retail,NPR,17.947499999999998,25332178.0,2002,0.476
+Nepal,Wheat flour - Retail,NPR,19.93519230769231,25682908.0,2003,0.482
+Nepal,Wheat flour - Retail,NPR,19.90318396226415,26003965.0,2004,0.489
+Nepal,Wheat flour - Retail,NPR,21.396493506493506,26285110.0,2005,0.495
+Nepal,Wheat flour - Retail,NPR,24.51931111111111,26518971.0,2006,0.505
+Nepal,Wheat flour - Retail,NPR,27.992844311377247,26713655.0,2007,0.509
+Nepal,Wheat flour - Retail,NPR,28.93775,26881544.0,2008,0.518
+Nepal,Wheat flour - Retail,NPR,30.394469696969697,27026941.0,2009,0.53
+Nepal,Wheat flour - Retail,NPR,34.45151515151515,27161567.0,2010,0.543
+Nepal,Wheat flour - Retail,NPR,35.99476923076923,27266399.0,2011,0.553
+Nepal,Wheat flour - Retail,NPR,35.2775,27330694.0,2012,0.561
+Nepal,Wheat flour - Retail,NPR,40.27461538461538,27381555.0,2013,0.57
+Nepal,Wheat flour - Retail,NPR,43.75,27462106.0,2014,0.576
+Nepal,Wheat flour - Retail,NPR,45.081746031746036,27610325.0,2015,0.579
+Nepal,Wheat flour - Retail,NPR,46.40333333333333,27861186.0,2016,0.586
+Nepal,Wheat flour - Retail,NPR,45.17272727272727,28183426.0,2017,0.594
+Nepal,Wheat flour - Retail,NPR,43.957264957264954,28506712.0,2018,0.601
+Nepal,Wheat flour - Retail,NPR,54.42424242424242,28832496.0,2019,0.611
+Nepal,Wheat flour - Retail,NPR,62.98769659863945,29348627.0,2020,0.604
+Turkey,Apples (red) - Retail,TRY,2.08095,,2013,0.799
+Turkey,Apples (red) - Retail,TRY,2.4101181818181816,,2014,0.809
+Turkey,Apples (red) - Retail,TRY,2.4014166666666665,,2015,0.817
+Turkey,Apples (red) - Retail,TRY,2.4283333333333332,,2016,0.823
+Turkey,Apples (red) - Retail,TRY,2.56,,2017,0.833
+Turkey,Apples - Retail,TRY,3.334175,,2017,0.833
+Turkey,Apples - Retail,TRY,3.9234166666666668,,2018,0.839
+Turkey,Apples - Retail,TRY,4.259810416666666,,2019,0.842
+Turkey,Apples - Retail,TRY,5.4868375,,2020,0.833
+Turkey,Bananas - Retail,TRY,4.002225,,2013,0.799
+Turkey,Bananas - Retail,TRY,4.962827272727273,,2014,0.809
+Turkey,Bananas - Retail,TRY,5.368833333333334,,2015,0.817
+Turkey,Bananas - Retail,TRY,5.914166666666667,,2016,0.823
+Turkey,Bananas - Retail,TRY,7.3137384615384615,,2017,0.833
+Turkey,Bananas - Retail,TRY,8.701475,,2018,0.839
+Turkey,Bananas - Retail,TRY,10.879370833333333,,2019,0.842
+Turkey,Bananas - Retail,TRY,11.741833333333332,,2020,0.833
+Turkey,Beans (white) - Retail,TRY,6.932799999999999,,2013,0.799
+Turkey,Beans (white) - Retail,TRY,9.484309090909091,,2014,0.809
+Turkey,Beans (white) - Retail,TRY,7.288333333333333,,2015,0.817
+Turkey,Beans (white) - Retail,TRY,6.949166666666667,,2016,0.823
+Turkey,Beans (white) - Retail,TRY,9.217699999999999,,2017,0.833
+Turkey,Beans (white) - Retail,TRY,9.24284375,,2018,0.839
+Turkey,Beans (white) - Retail,TRY,11.658689583333334,,2019,0.842
+Turkey,Beans (white) - Retail,TRY,13.5343,,2020,0.833
+Turkey,Bread (common) - Retail,TRY,2.8529999999999998,,2013,0.799
+Turkey,Bread (common) - Retail,TRY,3.0694909090909093,,2014,0.809
+Turkey,Bread (common) - Retail,TRY,2.9829166666666667,,2015,0.817
+Turkey,Bread (common) - Retail,TRY,3.373333333333333,,2016,0.823
+Turkey,Bread (common) - Retail,TRY,4.1788410256410256,,2017,0.833
+Turkey,Bread (common) - Retail,TRY,4.74061875,,2018,0.839
+Turkey,Bread (common) - Retail,TRY,5.513270833333333,,2019,0.842
+Turkey,Bread (common) - Retail,TRY,6.6147,,2020,0.833
+Turkey,Bread (pita) - Retail,TRY,2.3114285714285714,,2015,0.817
+Turkey,Bread (pita) - Retail,TRY,2.44,,2016,0.823
+Turkey,Bread (pita) - Retail,TRY,2.48,,2017,0.833
+Turkey,Bulgur - Retail,TRY,2.405025,,2013,0.799
+Turkey,Bulgur - Retail,TRY,2.593790909090909,,2014,0.809
+Turkey,Bulgur - Retail,TRY,2.6805,,2015,0.817
+Turkey,Bulgur - Retail,TRY,2.765833333333333,,2016,0.823
+Turkey,Bulgur - Retail,TRY,3.293874358974359,,2017,0.833
+Turkey,Bulgur - Retail,TRY,3.5460270833333336,,2018,0.839
+Turkey,Bulgur - Retail,TRY,4.3693687500000005,,2019,0.842
+Turkey,Bulgur - Retail,TRY,5.365191666666667,,2020,0.833
+Turkey,Cabbage - Retail,TRY,1.1048,,2013,0.799
+Turkey,Cabbage - Retail,TRY,1.0732333333333333,,2014,0.809
+Turkey,Cabbage - Retail,TRY,1.197,,2015,0.817
+Turkey,Cabbage - Retail,TRY,1.375714285714286,,2016,0.823
+Turkey,Cabbage - Retail,TRY,1.5894952380952379,,2017,0.833
+Turkey,Cabbage - Retail,TRY,1.7516642857142857,,2018,0.839
+Turkey,Cabbage - Retail,TRY,2.2327375000000003,,2019,0.842
+Turkey,Cabbage - Retail,TRY,1.9764958333333336,,2020,0.833
+Turkey,Cauliflower - Retail,TRY,2.04695,,2013,0.799
+Turkey,Cauliflower - Retail,TRY,2.1293166666666665,,2014,0.809
+Turkey,Cauliflower - Retail,TRY,2.7728,,2015,0.817
+Turkey,Cauliflower - Retail,TRY,2.6557142857142857,,2016,0.823
+Turkey,Cauliflower - Retail,TRY,2.878480952380952,,2017,0.833
+Turkey,Cauliflower - Retail,TRY,3.2377499999999997,,2018,0.839
+Turkey,Cauliflower - Retail,TRY,4.3265375,,2019,0.842
+Turkey,Cauliflower - Retail,TRY,5.048295833333333,,2020,0.833
+Turkey,Cheese - Retail,TRY,15.421428571428573,,2015,0.817
+Turkey,Cheese - Retail,TRY,15.490833333333333,,2016,0.823
+Turkey,Cheese - Retail,TRY,24.425553846153846,,2017,0.833
+Turkey,Cheese - Retail,TRY,27.905195833333334,,2018,0.839
+Turkey,Cheese - Retail,TRY,28.013266666666667,,2019,0.842
+Turkey,Cheese - Retail,TRY,33.42777916666667,,2020,0.833
+Turkey,Chickpeas - Retail,TRY,5.91845,,2013,0.799
+Turkey,Chickpeas - Retail,TRY,5.815827272727272,,2014,0.809
+Turkey,Chickpeas - Retail,TRY,5.66525,,2015,0.817
+Turkey,Chickpeas - Retail,TRY,7.765,,2016,0.823
+Turkey,Chickpeas - Retail,TRY,13.577753846153847,,2017,0.833
+Turkey,Chickpeas - Retail,TRY,12.24398125,,2018,0.839
+Turkey,Chickpeas - Retail,TRY,9.051525,,2019,0.842
+Turkey,Chickpeas - Retail,TRY,9.8156,,2020,0.833
+Turkey,Cocoa (powder) - Retail,TRY,37.79515,,2013,0.799
+Turkey,Cocoa (powder) - Retail,TRY,38.134263636363634,,2014,0.809
+Turkey,Cocoa (powder) - Retail,TRY,36.65791666666667,,2015,0.817
+Turkey,Cocoa (powder) - Retail,TRY,36.696666666666665,,2016,0.823
+Turkey,Cocoa (powder) - Retail,TRY,43.29985128205128,,2017,0.833
+Turkey,Cocoa (powder) - Retail,TRY,45.214012499999995,,2018,0.839
+Turkey,Cocoa (powder) - Retail,TRY,48.160993749999996,,2019,0.842
+Turkey,Cocoa (powder) - Retail,TRY,58.40615625,,2020,0.833
+Turkey,Coffee - Retail,TRY,30.890625,,2013,0.799
+Turkey,Coffee - Retail,TRY,31.2612,,2014,0.809
+Turkey,Coffee - Retail,TRY,34.49991666666667,,2015,0.817
+Turkey,Coffee - Retail,TRY,36.15416666666667,,2016,0.823
+Turkey,Coffee - Retail,TRY,42.08234871794872,,2017,0.833
+Turkey,Coffee - Retail,TRY,44.706649999999996,,2018,0.839
+Turkey,Coffee - Retail,TRY,47.646449999999994,,2019,0.842
+Turkey,Coffee - Retail,TRY,48.366227083333335,,2020,0.833
+Turkey,Cucumbers (greenhouse) - Retail,TRY,1.7374,,2013,0.799
+Turkey,Cucumbers (greenhouse) - Retail,TRY,1.9364818181818182,,2014,0.809
+Turkey,Cucumbers (greenhouse) - Retail,TRY,1.9770833333333335,,2015,0.817
+Turkey,Cucumbers (greenhouse) - Retail,TRY,2.2983333333333333,,2016,0.823
+Turkey,Cucumbers (greenhouse) - Retail,TRY,4.376666666666667,,2017,0.833
+Turkey,Cucumbers - Retail,TRY,2.9029583333333333,,2017,0.833
+Turkey,Cucumbers - Retail,TRY,3.1807020833333333,,2018,0.839
+Turkey,Cucumbers - Retail,TRY,4.023225,,2019,0.842
+Turkey,Cucumbers - Retail,TRY,4.373085416666666,,2020,0.833
+Turkey,Eggplants - Retail,TRY,1.917142857142857,,2015,0.817
+Turkey,Eggplants - Retail,TRY,2.5500000000000003,,2016,0.823
+Turkey,Eggplants - Retail,TRY,3.5439307692307693,,2017,0.833
+Turkey,Eggplants - Retail,TRY,3.6413333333333333,,2018,0.839
+Turkey,Eggplants - Retail,TRY,5.018958333333333,,2019,0.842
+Turkey,Eggplants - Retail,TRY,4.856633333333334,,2020,0.833
+Turkey,Fish (fresh) - Retail,TRY,13.461625,,2013,0.799
+Turkey,Fish (fresh) - Retail,TRY,14.228209090909091,,2014,0.809
+Turkey,Fish (fresh) - Retail,TRY,14.08975,,2015,0.817
+Turkey,Fish (fresh) - Retail,TRY,15.066666666666668,,2016,0.823
+Turkey,Fish (fresh) - Retail,TRY,20.882453846153847,,2017,0.833
+Turkey,Fish (fresh) - Retail,TRY,24.301085416666666,,2018,0.839
+Turkey,Fish (fresh) - Retail,TRY,29.341566666666665,,2019,0.842
+Turkey,Fish (fresh) - Retail,TRY,34.437241666666665,,2020,0.833
+Turkey,Garlic - Retail,TRY,8.143075,,2013,0.799
+Turkey,Garlic - Retail,TRY,8.758027272727274,,2014,0.809
+Turkey,Garlic - Retail,TRY,10.94375,,2015,0.817
+Turkey,Garlic - Retail,TRY,14.851666666666667,,2016,0.823
+Turkey,Garlic - Retail,TRY,14.835771794871794,,2017,0.833
+Turkey,Garlic - Retail,TRY,13.02499375,,2018,0.839
+Turkey,Garlic - Retail,TRY,25.99903958333333,,2019,0.842
+Turkey,Garlic - Retail,TRY,37.101985416666665,,2020,0.833
+Turkey,Groundnuts (shelled) - Retail,TRY,12.60535,,2013,0.799
+Turkey,Groundnuts (shelled) - Retail,TRY,12.779154545454544,,2014,0.809
+Turkey,Groundnuts (shelled) - Retail,TRY,17.512,,2015,0.817
+Turkey,Groundnuts (shelled) - Retail,TRY,17.5275,,2016,0.823
+Turkey,Groundnuts (shelled) - Retail,TRY,19.47087435897436,,2017,0.833
+Turkey,Groundnuts (shelled) - Retail,TRY,21.036458333333332,,2018,0.839
+Turkey,Groundnuts (shelled) - Retail,TRY,29.54602291666667,,2019,0.842
+Turkey,Groundnuts (shelled) - Retail,TRY,39.278554166666666,,2020,0.833
+Turkey,Lentils - Retail,TRY,3.452275,,2013,0.799
+Turkey,Lentils - Retail,TRY,4.467318181818182,,2014,0.809
+Turkey,Lentils - Retail,TRY,5.78625,,2015,0.817
+Turkey,Lentils - Retail,TRY,6.9575,,2016,0.823
+Turkey,Lentils - Retail,TRY,7.807253846153847,,2017,0.833
+Turkey,Lentils - Retail,TRY,6.684435416666666,,2018,0.839
+Turkey,Lentils - Retail,TRY,6.587620833333333,,2019,0.842
+Turkey,Lentils - Retail,TRY,9.633691666666666,,2020,0.833
+Turkey,Meat (chicken) - Retail,TRY,6.677175,,2013,0.799
+Turkey,Meat (chicken) - Retail,TRY,7.224881818181819,,2014,0.809
+Turkey,Meat (chicken) - Retail,TRY,7.024249999999999,,2015,0.817
+Turkey,Meat (chicken) - Retail,TRY,7.434166666666666,,2016,0.823
+Turkey,Meat (chicken) - Retail,TRY,8.890930769230769,,2017,0.833
+Turkey,Meat (chicken) - Retail,TRY,9.954510416666666,,2018,0.839
+Turkey,Meat (chicken) - Retail,TRY,12.097452083333332,,2019,0.842
+Turkey,Meat (chicken) - Retail,TRY,12.540325000000001,,2020,0.833
+Turkey,Meat (mutton) - Retail,TRY,25.609925,,2013,0.799
+Turkey,Meat (mutton) - Retail,TRY,26.065690909090907,,2014,0.809
+Turkey,Meat (mutton) - Retail,TRY,27.00475,,2015,0.817
+Turkey,Meat (mutton) - Retail,TRY,31.058333333333334,,2016,0.823
+Turkey,Meat (mutton) - Retail,TRY,43.883523076923076,,2017,0.833
+Turkey,Meat (mutton) - Retail,TRY,51.335847916666665,,2018,0.839
+Turkey,Meat (mutton) - Retail,TRY,55.53035416666666,,2019,0.842
+Turkey,Meat (mutton) - Retail,TRY,64.41471458333334,,2020,0.833
+Turkey,Meat (veal) - Retail,TRY,25.0217,,2013,0.799
+Turkey,Meat (veal) - Retail,TRY,27.711154545454544,,2014,0.809
+Turkey,Meat (veal) - Retail,TRY,33.118249999999996,,2015,0.817
+Turkey,Meat (veal) - Retail,TRY,37.07083333333333,,2016,0.823
+Turkey,Meat (veal) - Retail,TRY,41.791176923076925,,2017,0.833
+Turkey,Meat (veal) - Retail,TRY,43.621362500000004,,2018,0.839
+Turkey,Meat (veal) - Retail,TRY,46.04744791666667,,2019,0.842
+Turkey,Meat (veal) - Retail,TRY,52.033237500000006,,2020,0.833
+Turkey,"Milk (powder, infant formula) - Retail",TRY,63.75714285714286,,2015,0.817
+Turkey,"Milk (powder, infant formula) - Retail",TRY,70.69583333333334,,2016,0.823
+Turkey,"Milk (powder, infant formula) - Retail",TRY,85.36469743589744,,2017,0.833
+Turkey,"Milk (powder, infant formula) - Retail",TRY,123.91967916666665,,2018,0.839
+Turkey,"Milk (powder, infant formula) - Retail",TRY,127.17265416666667,,2019,0.842
+Turkey,"Milk (powder, infant formula) - Retail",TRY,136.29651458333333,,2020,0.833
+Turkey,Onions - Retail,TRY,1.06495,,2013,0.799
+Turkey,Onions - Retail,TRY,1.0888818181818183,,2014,0.809
+Turkey,Onions - Retail,TRY,1.37525,,2015,0.817
+Turkey,Onions - Retail,TRY,1.4816666666666667,,2016,0.823
+Turkey,Onions - Retail,TRY,1.2766410256410257,,2017,0.833
+Turkey,Onions - Retail,TRY,2.5644,,2018,0.839
+Turkey,Onions - Retail,TRY,3.108897916666667,,2019,0.842
+Turkey,Onions - Retail,TRY,2.5953104166666665,,2020,0.833
+Turkey,Oranges - Retail,TRY,3.7922000000000002,,2013,0.799
+Turkey,Oranges - Retail,TRY,1.6307142857142858,,2014,0.809
+Turkey,Oranges - Retail,TRY,1.7124285714285714,,2015,0.817
+Turkey,Oranges - Retail,TRY,1.62125,,2016,0.823
+Turkey,Oranges - Retail,TRY,2.8521,,2017,0.833
+Turkey,Oranges - Retail,TRY,2.982421875,,2018,0.839
+Turkey,Oranges - Retail,TRY,4.339036111111111,,2019,0.842
+Turkey,Oranges - Retail,TRY,5.369764285714285,,2020,0.833
+Turkey,Pasta - Retail,TRY,2.370975,,2013,0.799
+Turkey,Pasta - Retail,TRY,2.687490909090909,,2014,0.809
+Turkey,Pasta - Retail,TRY,2.9449166666666664,,2015,0.817
+Turkey,Pasta - Retail,TRY,2.9958333333333336,,2016,0.823
+Turkey,Pasta - Retail,TRY,3.1603128205128206,,2017,0.833
+Turkey,Pasta - Retail,TRY,3.4943125,,2018,0.839
+Turkey,Pasta - Retail,TRY,4.314591666666667,,2019,0.842
+Turkey,Pasta - Retail,TRY,5.37925,,2020,0.833
+Turkey,"Peas (green, dry) - Retail",TRY,2.3851,,2013,0.799
+Turkey,"Peas (green, dry) - Retail",TRY,3.015,,2014,0.809
+Turkey,"Peas (green, dry) - Retail",TRY,3.1666666666666665,,2015,0.817
+Turkey,Potatoes - Retail,TRY,1.5385714285714285,,2015,0.817
+Turkey,Potatoes - Retail,TRY,1.0941666666666667,,2016,0.823
+Turkey,Potatoes - Retail,TRY,1.6366871794871793,,2017,0.833
+Turkey,Potatoes - Retail,TRY,2.4423895833333336,,2018,0.839
+Turkey,Potatoes - Retail,TRY,3.1001666666666665,,2019,0.842
+Turkey,Potatoes - Retail,TRY,5.378991666666667,,2020,0.833
+Turkey,Rice - Retail,TRY,4.7477,,2013,0.799
+Turkey,Rice - Retail,TRY,6.367854545454546,,2014,0.809
+Turkey,Rice - Retail,TRY,6.426833333333334,,2015,0.817
+Turkey,Rice - Retail,TRY,6.047499999999999,,2016,0.823
+Turkey,Rice - Retail,TRY,7.1647923076923075,,2017,0.833
+Turkey,Rice - Retail,TRY,8.640443750000001,,2018,0.839
+Turkey,Rice - Retail,TRY,9.384564583333333,,2019,0.842
+Turkey,Rice - Retail,TRY,10.96588125,,2020,0.833
+Turkey,Salt - Retail,TRY,1.434225,,2013,0.799
+Turkey,Salt - Retail,TRY,1.4628363636363637,,2014,0.809
+Turkey,Salt - Retail,TRY,1.5160833333333334,,2015,0.817
+Turkey,Salt - Retail,TRY,1.6666666666666667,,2016,0.823
+Turkey,Salt - Retail,TRY,1.998374358974359,,2017,0.833
+Turkey,Salt - Retail,TRY,2.232254166666667,,2018,0.839
+Turkey,Salt - Retail,TRY,2.3183979166666666,,2019,0.842
+Turkey,Salt - Retail,TRY,3.042745833333333,,2020,0.833
+Turkey,Spinach - Retail,TRY,2.66,,2015,0.817
+Turkey,Spinach - Retail,TRY,2.292857142857143,,2016,0.823
+Turkey,Spinach - Retail,TRY,2.6428857142857143,,2017,0.833
+Turkey,Spinach - Retail,TRY,2.80239,,2018,0.839
+Turkey,Spinach - Retail,TRY,4.477733333333333,,2019,0.842
+Turkey,Spinach - Retail,TRY,5.1254,,2020,0.833
+Turkey,Sugar - Retail,TRY,3.55415,,2013,0.799
+Turkey,Sugar - Retail,TRY,3.7837090909090914,,2014,0.809
+Turkey,Sugar - Retail,TRY,3.8526666666666665,,2015,0.817
+Turkey,Sugar - Retail,TRY,4.175833333333333,,2016,0.823
+Turkey,Sugar - Retail,TRY,4.277897435897436,,2017,0.833
+Turkey,Sugar - Retail,TRY,4.6554416666666665,,2018,0.839
+Turkey,Sugar - Retail,TRY,4.949027083333333,,2019,0.842
+Turkey,Sugar - Retail,TRY,5.8359375,,2020,0.833
+Turkey,Tea - Retail,TRY,14.152899999999999,,2013,0.799
+Turkey,Tea - Retail,TRY,16.54330909090909,,2014,0.809
+Turkey,Tea - Retail,TRY,19.87075,,2015,0.817
+Turkey,Tea - Retail,TRY,22.537499999999998,,2016,0.823
+Turkey,Tea - Retail,TRY,27.11212307692308,,2017,0.833
+Turkey,Tea - Retail,TRY,28.601408333333335,,2018,0.839
+Turkey,Tea - Retail,TRY,28.860770833333333,,2019,0.842
+Turkey,Tea - Retail,TRY,34.44776458333333,,2020,0.833
+Turkey,Tomatoes (paste) - Retail,TRY,6.771428571428571,,2015,0.817
+Turkey,Tomatoes (paste) - Retail,TRY,6.479166666666667,,2016,0.823
+Turkey,Tomatoes (paste) - Retail,TRY,5.839510256410256,,2017,0.833
+Turkey,Tomatoes (paste) - Retail,TRY,7.688947916666667,,2018,0.839
+Turkey,Tomatoes (paste) - Retail,TRY,10.89894375,,2019,0.842
+Turkey,Tomatoes (paste) - Retail,TRY,10.144220833333334,,2020,0.833
+Turkey,Tomatoes - Retail,TRY,1.833025,,2013,0.799
+Turkey,Tomatoes - Retail,TRY,1.9368636363636362,,2014,0.809
+Turkey,Tomatoes - Retail,TRY,1.9276666666666664,,2015,0.817
+Turkey,Tomatoes - Retail,TRY,1.9141666666666666,,2016,0.823
+Turkey,Tomatoes - Retail,TRY,3.012379487179487,,2017,0.833
+Turkey,Tomatoes - Retail,TRY,3.8977791666666666,,2018,0.839
+Turkey,Tomatoes - Retail,TRY,4.399597916666667,,2019,0.842
+Turkey,Tomatoes - Retail,TRY,4.767358333333333,,2020,0.833
+Turkey,Wheat flour - Retail,TRY,2.25535,,2013,0.799
+Turkey,Wheat flour - Retail,TRY,2.565081818181818,,2014,0.809
+Turkey,Wheat flour - Retail,TRY,2.6725833333333333,,2015,0.817
+Turkey,Wheat flour - Retail,TRY,2.848333333333333,,2016,0.823
+Turkey,Wheat flour - Retail,TRY,3.1327179487179486,,2017,0.833
+Turkey,Wheat flour - Retail,TRY,3.4054979166666666,,2018,0.839
+Turkey,Wheat flour - Retail,TRY,3.685916666666667,,2019,0.842
+Turkey,Wheat flour - Retail,TRY,4.5460416666666665,,2020,0.833
+Turkey,Yogurt - Retail,TRY,3.9842857142857144,,2015,0.817
+Turkey,Yogurt - Retail,TRY,3.935833333333333,,2016,0.823
+Turkey,Yogurt - Retail,TRY,4.783010256410257,,2017,0.833
+Turkey,Yogurt - Retail,TRY,5.804489583333333,,2018,0.839
+Turkey,Yogurt - Retail,TRY,5.956695833333334,,2019,0.842
+Turkey,Yogurt - Retail,TRY,6.647016666666667,,2020,0.833
+Turkey,Zucchini - Retail,TRY,3.4770944444444445,,2017,0.833
+Turkey,Zucchini - Retail,TRY,3.6563145833333333,,2018,0.839
+Turkey,Zucchini - Retail,TRY,4.288779166666667,,2019,0.842
+Turkey,Zucchini - Retail,TRY,5.100064583333333,,2020,0.833
